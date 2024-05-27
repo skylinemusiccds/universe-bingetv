@@ -6,6 +6,13 @@
     <title>Player</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://content.jwplatform.com/libraries/SAHhwvZq.js"></script>
+    <style>
+        #jwplayerDiv {
+            width: 100%;
+            max-width: 800px; /* Optional: Set maximum width */
+            margin: 0 auto;
+        }
+    </style>
 </head>
 
 <body>
@@ -39,7 +46,8 @@
                 position: 'bottom',
                 autostart: true,
                 stretching: "",
-                width: "100%"
+                width: "100%",
+                title: channelData.title // Set title from channel data
             };
 
             // Check if the manifest type is MPEG-DASH
@@ -88,6 +96,14 @@
             } else {
                 console.error('Channels data is not an array:', channelsData);
             }
+        });
+
+        // Adjust player size on window resize
+        window.addEventListener('resize', function() {
+            var playerDiv = document.getElementById('jwplayerDiv');
+            var playerWidth = playerDiv.offsetWidth; // Get the width of the player div
+            var playerHeight = playerWidth * 0.5625; // Calculate height to maintain 16:9 aspect ratio
+            jwplayer().resize(playerWidth, playerHeight); // Resize the player
         });
     </script>
 </body>
