@@ -42,16 +42,7 @@
                 title: channelData.name+" UniVerse Binge TV",
                 width: "100%"
             };
-            // Initialize JWPlayer
-            var playerInstance = jwplayer('playerDiv').setup(playerSetup);
-            // Adjust player size on window resize
-            window.addEventListener('resize', function() {
-                var playerWidth = window.innerWidth * 0.9; // Adjust as needed
-                playerInstance.resize(playerWidth, playerWidth * 0.5625); // Maintain aspect ratio (16:9)
-            });
-        }
-
-
+            
             // Check if the manifest type is MPEG-DASH
             if (channelData.manifest_type === 'MPEG-DASH|DASH|MPD') {
                 // Set up DRM for DASH with keys if available
@@ -73,8 +64,15 @@
                 playerSetup.type = 'hls';
             }
 
-            jwplayer("jwplayerDiv").setup(playerSetup);
+            //jwplayer("jwplayerDiv").setup(playerSetup);
+            var playerInstance = jwplayer('playerDiv').setup(playerSetup);
+            // Adjust player size on window resize
+            window.addEventListener('resize', function() {
+                var playerWidth = window.innerWidth * 0.9; // Adjust as needed
+                playerInstance.resize(playerWidth, playerWidth * 0.5625); // Maintain aspect ratio (16:9)
+            });
         }
+        //}
 
         // Fetch channels data and set up the player
         fetchChannels(function(response) {
