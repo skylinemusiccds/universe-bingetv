@@ -10,7 +10,7 @@
         #jwplayerDiv {
             width: 100%;
             max-width: 800px; /* Optional: Set maximum width */
-            margin: 0 auto;
+            margin: 0;
         }
     </style>
 </head>
@@ -47,7 +47,7 @@
                 autostart: true,
                 stretching: "",
                 width: "100%",
-                title: channelData.title // Set title from channel data
+                title: channelData.name // Set title from channel data
             };
 
             // Check if the manifest type is MPEG-DASH
