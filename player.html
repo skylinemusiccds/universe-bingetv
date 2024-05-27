@@ -41,6 +41,15 @@
                 stretching: "",
                 width: "100%"
             };
+            // Initialize JWPlayer
+            var playerInstance = jwplayer('playerDiv').setup(playerSetup);
+            // Adjust player size on window resize
+            window.addEventListener('resize', function() {
+                var playerWidth = window.innerWidth * 0.9; // Adjust as needed
+                playerInstance.resize(playerWidth, playerWidth * 0.5625); // Maintain aspect ratio (16:9)
+            });
+        }
+
 
             // Check if the manifest type is MPEG-DASH
             if (channelData.manifest_type === 'MPEG-DASH|DASH|MPD') {
