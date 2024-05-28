@@ -5164,7 +5164,7 @@
         var lazyLoad = function() {
             lazyImages.forEach(function(img) {
                 if (img.getBoundingClientRect().top < window.innerHeight && !img.classList.contains("loaded")) {
-                    img.data-src = img.getAttribute("data-data-src");
+                    img.src = img.getAttribute("data-src"); // Corrected line
                     img.classList.add("loaded");
                 }
             });
@@ -5177,6 +5177,7 @@
         window.addEventListener("scroll", lazyLoad);
     });
 </script>
+
 
       
 </body>
