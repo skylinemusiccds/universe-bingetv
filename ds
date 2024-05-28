@@ -1,0 +1,39 @@
+You can achieve this effect using HTML and CSS with a bit of JavaScript. Here's a basic example:
+
+HTML:
+
+html
+
+<a href="player.html?channel=Tata%20Play%20Beauty" class="site-card" onmouseover="zoomIn(this)" onmouseout="zoomOut(this)">
+    <img src="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png" alt="Tata Play Beauty">
+    <div class="site-info">
+        <h2>Tata Play Beauty</h2>
+    </div>
+</a>
+
+CSS:
+
+css
+
+.site-card {
+    width: 200px; /* Adjust width as needed */
+    transition: transform 0.3s ease;
+}
+
+.site-card:hover {
+    transform: scale(1.1); /* Adjust scale factor for the zoom effect */
+}
+
+JavaScript (optional for a smoother transition):
+
+javascript
+
+function zoomIn(element) {
+    element.style.transform = "scale(1.1)";
+}
+
+function zoomOut(element) {
+    element.style.transform = "scale(1)";
+}
+
+This code will make the card scale up by 10% when you hover over it and return to its original size when you move the cursor away. Adjust the values in CSS to customize the effect to your liking.
