@@ -42,7 +42,7 @@
         function setupPlayer(channelData) {
             // Set up JWPlayer
             var playerSetup = {
-                file: "https://cors-anywhere.herokuapp.com/"+channelData.manifest_url+"?begin=20240520T033036&end=20240531T033036",
+                file: channelData.manifest_url,
                 position: 'bottom',
                 autostart: true,
                 stretching: "",
