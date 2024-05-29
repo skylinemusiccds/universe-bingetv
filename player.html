@@ -29,43 +29,14 @@
             if (!results[2]) return '';
             return decodeURIComponent(results[2].replace(/\+/g, " "));
         }
-        var url = 'https://channel-json.universee.workers.dev/channels.json'
+        var url = 'https://seep.eu.org/https://channel-json.universee.workers.dev/channels.json'
         // Function to fetch JSON data
         function fetchChannels(callback) {
-            fetch('channels.json')
+            fetch('url')
                 .then(response => response.json())
                 .then(data => callback(data))
                 .catch(error => console.error('Error fetching JSON:', error));
         }
-        // Function to fetch JSON data
-        function fetchChannels(callback) {
-            const url = 'https://seep.eu.org/https://channel-json.universee.workers.dev/channel.json';
-            fetch(url)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Failed to fetch JSON data');
-                    }
-                    return response.json();
-                })
-                .then(data => {
-                    callback(data);
-                })
-                .catch(error => console.error('Error fetching JSON:', error));
-        }
-
-        // Function to save JSON data to a file
-        function saveData(data) {
-            const jsonData = JSON.stringify(data, null, 2);
-            const blob = new Blob([jsonData], { type: 'application/json' });
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = 'channels.json';
-            document.body.appendChild(a);
-            a.click();
-            window.URL.revokeObjectURL(url);
-            document.body.removeChild(a);
-        }*/
 
         // Call the function to fetch data and save it
         fetchChannels(saveData);
