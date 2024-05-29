@@ -29,23 +29,21 @@
             if (!results[2]) return '';
             return decodeURIComponent(results[2].replace(/\+/g, " "));
         }
-        var url = 'https://universe-cors.deno.dev/https://channel-json.universee.workers.dev/channel.json'
+
         // Function to fetch JSON data
         function fetchChannels(callback) {
-            fetch('url')
+            var url = 'https://channels-json.deno.dev/';
+            fetch(url)
                 .then(response => response.json())
                 .then(data => callback(data))
                 .catch(error => console.error('Error fetching JSON:', error));
         }
 
-        // Call the function to fetch data and save it
-        fetchChannels(saveData);
-
         // Define player setup function
         function setupPlayer(channelData) {
             // Set up JWPlayer
             var playerSetup = {
-                file: channelData.manifest_url,
+                file: channelData.url,
                 position: 'bottom',
                 autostart: true,
                 stretching: "",
@@ -59,15 +57,19 @@
                 playerSetup.type = 'dash';
 
                 // Check if Clear Key is available
-                if (channelData.clearkeys && channelData.clearkeys.keyId && channelData.clearkeys.key) {
+                if (channelData.kid && channelData.k) {
                     playerSetup.drm = {
-                        clearkey: {
-                            keyId: channelData.clearkeys.keyId,
-                            key: channelData.clearkeys.key
+                        widevine: {
+                            url: channelData.license_key,
+                            headers: {
+                                'Content-Type': 'application/octet-stream'
+                            },
+                            // Convert hex-encoded key to Uint8Array
+                            key: Uint8Array.from(atob(channelData.k), c => c.charCodeAt(0))
                         }
                     };
                 } else {
-                    console.error('Clear keys not available.');
+                    console.error('Widevine keys not available.');
                 }
             } else {
                 // Default to HLS without keys
@@ -80,7 +82,7 @@
         // Fetch channels data and set up the player
         fetchChannels(function(response) {
             // Extract channels data from the response
-            var channelsData = response.data.channels;
+            var channelsData = response;
 
             // Get channel name from the URL
             var channelName = getParameterByName('channel');
@@ -88,7 +90,7 @@
             // Check if channelsData is an array
             if (Array.isArray(channelsData)) {
                 // Find the channel data in the array
-                var channelData = channelsData.find(channel => decodeURIComponent(channel.name) === channelName);
+                var channelData = channelsData.find(channel => channel.name === channelName);
 
                 if (channelData) {
                     // Set up the player with the channel data
@@ -109,11 +111,11 @@
             jwplayer().resize(playerWidth, playerHeight); // Resize the player
         });
     </script>
-    
+
     <!-- Cloudflare Web Analytics -->
     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "69cc198caeb54890bfc3f54a55843365"}'>
-        </script>
-    
+    </script>
+
     <!-- End Cloudflare Web Analytics -->
 </body>
 
