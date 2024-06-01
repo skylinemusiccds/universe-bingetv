@@ -19,6 +19,12 @@
     <div id="jwplayerDiv"></div>
 
     <script>
+        error_reporting(0);
+        header("Content-Type: application/vnd.apple.mpegurl");
+        header("Access-Control-Allow-Origin: *");
+        header("Access-Control-Expose-Headers: Content-Length,Content-Range");
+        header("Access-Control-Allow-Headers: Range");
+        header("Accept-Ranges: bytes");
         // Function to fetch JSON data
         function fetchChannels(callback) {
             var url = 'https://universe-cors.deno.dev/https://universe-channels.deno.dev'; // Replace with your JSON endpoint
