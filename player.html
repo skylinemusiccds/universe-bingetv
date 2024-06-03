@@ -22,7 +22,7 @@
     <script>
         // Function to fetch JSON data
         function fetchChannels(callback) {
-            //var url = 'https://universe-cors.deno.dev/https://universe-channels.deno.dev'; // Replace with your JSON endpoint
+            //var url = 'https://universe-cors.deno.dev/https://universe-channels.deno.dev'; Replace with your JSON endpoint
             fetch('channels.json')
                 .then(response => response.json())
                 .then(data => callback(data))
