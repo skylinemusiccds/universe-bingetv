@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <title>Player</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://content.jwplatform.com/libraries/SAHhwvZq.js"></script>
+    //<script src="https://content.jwplatform.com/libraries/SAHhwvZq.js"></script>
+    <script src="script.js"></script>
     <style>
         #jwplayerDiv {
             width: 100%;
@@ -21,8 +22,8 @@
     <script>
         // Function to fetch JSON data
         function fetchChannels(callback) {
-            var url = 'https://universe-cors.deno.dev/https://universe-channels.deno.dev'; // Replace with your JSON endpoint
-            fetch(url)
+            //var url = 'https://universe-cors.deno.dev/https://universe-channels.deno.dev'; // Replace with your JSON endpoint
+            fetch('channels.json')
                 .then(response => response.json())
                 .then(data => callback(data))
                 .catch(error => console.error('Error fetching JSON:', error));
