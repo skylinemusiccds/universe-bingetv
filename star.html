@@ -29,7 +29,7 @@
         var config = {"file":"https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd?begin=20240530T010000&end=20240606T160000","drm":{"clearkey":{"keyId":"af85963ef14b54eb830a09482d30608a","key":"0cdb2af38a2c207ada2bc21736a4d15b"}}};
 
         jwplayer("jwplayerDiv").setup({
-            file: config.file,
+            file: "http://mpd-fetch.deno.dev/manifest.mpd",
             position: 'bottom',
             autostart: true,
             stretching: "",
