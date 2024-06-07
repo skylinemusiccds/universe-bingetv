@@ -28,16 +28,18 @@
                 .catch(error => console.error('Error fetching JSON:', error));
         }
 
+        var mpdfile = channelData.data.channels[0].manifest_url
+        var title = channelData.data.channels[0].name
         // Define player setup function
         function setupPlayer(channelData) {
             // Set up JWPlayer
             var playerSetup = {
-                file: channelData.data.channels[0].manifest_url, // Use the manifest_url from your JSON
+                file: 'mpdfile', // Use the manifest_url from your JSON
                 position: 'bottom',
                 autostart: true,
                 stretching: "",
                 width: "100%",
-                title: channelData.data.channels[0].name // Set title from channel data
+                title: 'title' // Set title from channel data
             };
 
             // Check if the manifest type is MPEG-DASH
