@@ -200,7 +200,7 @@
             <input id="search" type="text" placeholder="Search Your Channel">
             <select id="groupSelect">
                 <option value="">All</option>
-                <option value=" HD">HD Channels</option>
+                <option value="HDC">HD Channels</option>
                 <option value="Entertainment">Entertainment</option>
                 <option value="Movies">Movies</option>
                 <option value="Music">Music</option>
@@ -231,8 +231,7 @@
     <button id="loadMoreBtn" class="load-more-btn">Load More</button>
 
     <script>
-        fetch('channels.json')
-        //fetch("https://universe-cors.deno.dev/https://channels-json.deno.dev/playlist.json")
+        fetch("https://universe-cors.deno.dev/https://channels-json.deno.dev/playlist.json")
             .then(response => response.json())
             .then(playlist => {
                 const playlistDiv = document.getElementById("playlist");
