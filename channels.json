@@ -1120,6 +1120,16 @@
         "kid": "fc2ba4faff5d55fb9b8858bfdd6b2537"
     },
     {
+        "id": "689",
+        "name": "Aaj Tak HD",
+        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png",
+        "group": "News",
+        "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd",
+        "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000732",
+        "k": "c47ea21219dc378d8620cd86e2fc99f2",
+        "kid": "fc2ba4faff5d55fb9b8858bfdd6b2537"
+    },
+    {
         "id": "153",
         "name": "Aaj Tak",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png",
