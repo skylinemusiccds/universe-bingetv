@@ -26,8 +26,8 @@
         "group": "Lifestyle, Specials",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000129",
-        "k": "11477428bf7dd7c804922d1b296742be",
-        "kid": "3541abeda18d54828f3562d968a067bf"
+        "k": "14ad7b2606c8c3e89638e9da87c03189",
+        "kid": "60a013c297595e518a265c379c1659c2"
     },
     {
         "id": "618",
@@ -56,38 +56,38 @@
         "group": "Movies, Entertainment",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001111",
-        "k": "a2cb6d4efbcb92438742a5f509d20769",
-        "kid": "a0f76d1022ab5aef99e9740a482f16cf"
+        "k": "02b9f70c980cc4679f9dc844749ed100",
+        "kid": "d9a79b673c905ab5927d32e52953724e"
     },
     {
         "id": "8",
         "name": "STAR Plus HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",
-        "group": "Entertainment, HDC",
+        "group": "Entertainment, HD",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000007",
-        "k": "e507e66ddb047a669950cfe22537479b",
-        "kid": "cb2505667297597584c62f755e199b82"
+        "k": "9fbce9a3aee69fb6750752860ce5275a",
+        "kid": "a42c99607fb153408a326fdc0acf0101"
     },
     {
         "id": "244",
         "name": "Star Bharat HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",
-        "group": "Entertainment, HDC",
+        "group": "Entertainment, HD",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000258",
-        "k": "7c8b4035f47d03b0c8a6269ad78a5543",
-        "kid": "2a89513e28bf5e6d8ec1e44e4cb310c8"
+        "k": "21ea6456abf18b24db79d3d3e8232fef",
+        "kid": "5cbc4866063658889612da9180545246"
     },
     {
         "id": "15",
         "name": "SET HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png",
-        "group": "Entertainment, HDC",
+        "group": "Entertainment, HD",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000015",
-        "k": "aeb41d97ff36ca503befbd25a0a8e8c2",
-        "kid": "31ec0237f44a549eb9bcf2add36d34e3"
+        "k": "6a95a9a55d9116506abbdf3a6ec70500",
+        "kid": "d15c9d3b97bf57789873b53d89797357"
     },
     {
         "id": "556",
@@ -96,18 +96,18 @@
         "group": "Entertainment",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000585",
-        "k": "9015c541943eea945e4a4b58900dd2c5",
-        "kid": "b25ed26747535a08bb591e2937d9cac0"
+        "k": "455178d54d6fcb4caaff3b840b1eff7d",
+        "kid": "e936eb56686a5a198d6669e8c865697a"
     },
     {
         "id": "48",
         "name": "SONY SAB HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",
-        "group": "Entertainment, HDC, Comedy",
+        "group": "Entertainment, HD, Comedy",
         "url": "https://bpweb7.akamaized-staging.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000047",
-        "k": "8923ad5aed715a8bf4f78239e10496dc",
-        "kid": "db6f1dbe0c005c2694914cca4791f6d5"
+        "k": "b18c4f8df5812f91e92a9f915f1f054c",
+        "kid": "b5915e2a67bd5f6b8782e23f490ccdf0"
     },
     {
         "id": "559",
@@ -116,18 +116,18 @@
         "group": "Entertainment, Comedy",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000588",
-        "k": "7371b5068aa09b691b1f60045f7b9659",
-        "kid": "fcf90127045f5edabc5d94a932f5c6fe"
+        "k": "cbf32cf3e2da12ae36a0aa1a06de89c1",
+        "kid": "f599a94989c65fe39f0bf15d529fa7b1"
     },
     {
         "id": "40",
         "name": "&tv HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png",
-        "group": "Entertainment, HDC, Comedy",
+        "group": "Entertainment, HD, Comedy",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000039",
-        "k": "751fdc7b9595b4e70a39e22c98bf0919",
-        "kid": "82113eb3d417543583b86b6c11a899a7"
+        "k": "0dfa06783945570cc9ade4b6e1082230",
+        "kid": "3a13a0393a8e54dfb6b3dcb9d47663e5"
     },
     {
         "id": "578",
@@ -143,11 +143,11 @@
         "id": "63",
         "name": "Zee TV HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",
-        "group": "Entertainment, HDC",
+        "group": "Entertainment, HD",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000065",
-        "k": "90fc20f560447c549fc480b4c8d26dc4",
-        "kid": "1928fb726e545dbb9ed5914d6439fba3"
+        "k": "74ac23d85d3899b1980a613c94d28bac",
+        "kid": "1e181d59fdb751279916b8fd8909b716"
     },
     {
         "id": "557",
@@ -166,18 +166,18 @@
         "group": "Thriller, Entertainment, Horror",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_1108/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000903",
-        "k": "306cc8c03eee4f4a354be01b79ab75c1",
-        "kid": "cc8b2840fdd45a83a4d8f9235913547b"
+        "k": "400425c3c31bdefbaa1adc4a68325493",
+        "kid": "8d6c68df3de451aaa129800021e4db9c"
     },
     {
         "id": "52",
         "name": "Colors HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
-        "group": "Entertainment, HDC",
+        "group": "Entertainment, HD",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000051",
-        "k": "3c8aac4621c9bf1215dd71511d070fcc",
-        "kid": "48cf1cfee62b525d8ba6da75219b4878"
+        "k": "0a525bb81e22ee748352426063e1e35e",
+        "kid": "a7d414b6fead5b48b26ecda050730780"
     },
     {
         "id": "543",
@@ -206,8 +206,8 @@
         "group": "Entertainment, Specials",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1774/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001094",
-        "k": "d6bc0c6fe9dd8f766ee24f5fb58c7410",
-        "kid": "3831d17d2ab259808af7758ee2b9f6a6"
+        "k": "d491a12771baa888e3ceea1dca113bd6",
+        "kid": "c4bbc134329a559084840af5642554ee"
     },
     {
         "id": "964",
@@ -216,8 +216,8 @@
         "group": "Movies, Entertainment",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1790/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001116",
-        "k": "3c0977d195979599a185c537b2081c8c",
-        "kid": "971f7638162254efa7122cd391c35fdf"
+        "k": "a40c3057029716d74010e89ee4fb7f6e",
+        "kid": "57d046113b9557a6a54c0618bc4c3610"
     },
     {
         "id": "142",
@@ -226,8 +226,8 @@
         "group": "Entertainment",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_103/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000152",
-        "k": "720fd0383931e04ab3aa10474ccf7a12",
-        "kid": "8545db9a74d654cb93be8b43deba39b3"
+        "k": "7618c355d2edf9f1254dff3f6dd26af8",
+        "kid": "d7c661d7ab48535ca8baacc39554608f"
     },
     {
         "id": "986",
@@ -236,8 +236,8 @@
         "group": "Entertainment",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1813/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001147",
-        "k": "db91bb9f17c52faf0106d2eeeeb82583",
-        "kid": "853fccf9e0da5b66b9b3b26b81113c20"
+        "k": "532f0d3daf440c6ace3130ef33c603eb",
+        "kid": "81b43e719cf35fe9a3cadfbad269c6b2"
     },
     {
         "id": "1276",
@@ -266,8 +266,8 @@
         "group": "Entertainment",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000581",
-        "k": "3665ef7b84b60a0f36c22c771e837a8b",
-        "kid": "2cf6bc08522956a884dc862992cc36e1"
+        "k": "2a2b7ddf4ebb2f95f8528bf4a6bae1d3",
+        "kid": "ee41ca388ed6588aa1a215b575110afc"
     },
     {
         "id": "523",
@@ -276,8 +276,8 @@
         "group": "Entertainment",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000545",
-        "k": "9a8028f7fe151251513fd0c65fb55224",
-        "kid": "5e606b0d2cfe5504a4e7b6cbf62abb7e"
+        "k": "da428fbb6736df26347ed3607c896cf4",
+        "kid": "bfa5d08bdd015c748808965c902f44ab"
     },
     {
         "id": "438",
@@ -286,8 +286,8 @@
         "group": "Entertainment",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_694/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000457",
-        "k": "33a5367ac2f3430429ae870ed039614d",
-        "kid": "ef743ed55d62527e88b361a3858012fe"
+        "k": "8d53e587ebf7a203e72fe1209fde2a4b",
+        "kid": "aea3616aae145562a992b32ea90ba8f7"
     },
     {
         "id": "554",
@@ -296,8 +296,8 @@
         "group": "Entertainment",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_193/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000584",
-        "k": "ffaf769ba3401b5ca219d6391666a89a",
-        "kid": "513aa4fe5c5151f68493b17ba8f55994"
+        "k": "801f134a030e18b177d0aac85cd5eb7e",
+        "kid": "3fb71d16c2a6531f947e58b5f96f84db"
     },
     {
         "id": "54",
@@ -306,8 +306,8 @@
         "group": "Entertainment",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_274/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000053",
-        "k": "8c5946045ddfd27c6c5c151e1b19f843",
-        "kid": "20676978970850f486a594160e52dd54"
+        "k": "ac6a1cc479dd3ebda9362d0df67ff673",
+        "kid": "691668d9bbcc5c63bb39bdb8106421fc"
     },
     {
         "id": "297",
@@ -316,8 +316,8 @@
         "group": "Entertainment",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_476/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000312",
-        "k": "f1698c8f59e5993239137d4b8d74fd22",
-        "kid": "ec4ac83cdc4b5dd5b48486c7a51e0c51"
+        "k": "fec13538c4b96e1f0f91d0314eff3c88",
+        "kid": "4153ab8281985f7f8bdb41983341658e"
     },
     {
         "id": "51",
@@ -336,8 +336,8 @@
         "group": "Entertainment",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_370/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000196",
-        "k": "50d312b80f6db2db391b9fbc15540ef0",
-        "kid": "9a771da45f7455dcbe7b9353e35b3306"
+        "k": "3997d6f86166cb187e047a589fd476f3",
+        "kid": "6cbc849de4b35c6b8648cecbf010faac"
     },
     {
         "id": "818",
@@ -346,18 +346,8 @@
         "group": "Entertainment",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_1114/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000918",
-        "k": "e54c4a3d752d001c0389b9248a61c446",
-        "kid": "251e767802f45cba973d51d6cb6b2738"
-    },
-    {
-        "id": "888",
-        "name": "Ishara",
-        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Thumbnail-v3/Ishara_Thumbnail.png",
-        "group": "Entertainment",
-        "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
-        "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
-        "k": "a1ce53bd9261d240154b685ee627855b",
-        "kid": "96f3abeaa99a50f09914bc940a7bdae1"
+        "k": "7829b12528011e11e0bf34c6db892b67",
+        "kid": "a29cbf7b66dc5f95836141251d08f3a5"
     },
     {
         "id": "874",
@@ -370,14 +360,24 @@
         "kid": null
     },
     {
+        "id": "888",
+        "name": "Ishara",
+        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Thumbnail-v3/Ishara_Thumbnail.png",
+        "group": "Entertainment",
+        "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
+        "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
+        "k": "55a78f371573a8d75d47ebe3c5973978",
+        "kid": "74c88b968b7a5ee0bfd81957f49419e7"
+    },
+    {
         "id": "1045",
         "name": "Shemaroo UMANG",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SHEUM_Thumbnail-v2/SHEUM_Thumbnail.png",
         "group": "Entertainment",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1865/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001213",
-        "k": "f3b92d434827235bae25cd3113be29e7",
-        "kid": "ffe81f12f178575fafd4fb51e6587527"
+        "k": "19086371390c321a8facbba783422c32",
+        "kid": "6ff5e7e169d85839ad9ef11c58adfcf1"
     },
     {
         "id": "965",
@@ -386,8 +386,8 @@
         "group": "Entertainment",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001118",
-        "k": "79d120eac074cbb9cd566fea722fd113",
-        "kid": "d3cbfca5e859534c94b8504f2a090975"
+        "k": "43caaac3757d341199ce03113e47857d",
+        "kid": "41a0319385585c19b6827225d277c97d"
     },
     {
         "id": "1269",
@@ -396,8 +396,8 @@
         "group": "Entertainment",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_2052/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001416",
-        "k": "c7ca52a060864a80e53982ad6e637809",
-        "kid": "6e87ef515acf5ed3876bb8d8c4cdf284"
+        "k": "b19e629d00de96f16eb087487767b7ac",
+        "kid": "12b3b360e15d566a8b8bd44d23d5aeb5"
     },
     {
         "id": "191",
@@ -406,8 +406,8 @@
         "group": "Entertainment",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_140/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000206",
-        "k": "27803fdde03a8376b800b01b7e289c2c",
-        "kid": "8141728470535299b067b76a0d903043"
+        "k": "b4b972e8adf1c14ccc8c7916d25527a1",
+        "kid": "e7e14c5bfadf59139d743bf9073d5eef"
     },
     {
         "id": "326",
@@ -416,38 +416,38 @@
         "group": "Knowledge",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_510/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000344",
-        "k": "64cfaa7975e7ba8d662a8c144381166a",
-        "kid": "ec163e95e3af58cfa04e9c7b9226ec48"
+        "k": "03528dda14770fa3d52f6fd8dff8cd94",
+        "kid": "3e561c3ae57452cf93257423a516873b"
     },
     {
         "id": "808",
         "name": "Tata Play Hits",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49809-k7454ppk-v3/imageContent-49809-k7454ppk-m6.png",
-        "group": "Entertainment, HDC",
+        "group": "Entertainment, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_998/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000896",
-        "k": "e046354dcecd64933fe5d5290cb63691",
-        "kid": "e4e5333c1a865e5bb510780097f074dd"
+        "k": "6d29358bc4e51565e5e30bad3c2321e4",
+        "kid": "43dd5c0654125b9387d02826c49076d3"
     },
     {
         "id": "187",
         "name": "Colors Infinity HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png",
-        "group": "Entertainment, HDC",
+        "group": "Entertainment, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_304/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000201",
-        "k": "7a9deb4ecd875081ceb5ad3eb9183284",
-        "kid": "1532a71cbf1d5b1887855ad9b8816133"
+        "k": "d09e2d54c3d0bd620aacd3cf983056db",
+        "kid": "03d4b2a66cfa5f948f7cd0ed0cd16ecb"
     },
     {
         "id": "307",
         "name": "Comedy Central HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png",
-        "group": "Entertainment, HDC, Comedy",
+        "group": "Entertainment, HD, Comedy",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_494/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000322",
-        "k": "e20a422a14087e53f5a3b0613dea4f37",
-        "kid": "ecb32d4b0de35c099625bf36885095c6"
+        "k": "5d8f5bc24c2d00836b7d82d0d9924d7b",
+        "kid": "fbd8edb1ef35507f87589384163559c7"
     },
     {
         "id": "306",
@@ -456,8 +456,8 @@
         "group": "Entertainment, Comedy",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_493/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000321",
-        "k": "00e9abea2738b8de44ead65d95fb8b37",
-        "kid": "2117993a0cbc5c9a9b09a8c6661c16b8"
+        "k": "0332a874cd85575f6efb5d6aafc57303",
+        "kid": "525378782d9d53c7b247bd6011420d21"
     },
     {
         "id": "1101",
@@ -466,8 +466,8 @@
         "group": "Entertainment",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1914/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001265",
-        "k": "0ebc460c78de975bfc9768f5b1dd41ca",
-        "kid": "4c53d33e0f9d57978b53b0f7a0d10327"
+        "k": "d0e06db385af4024f3fc5739a4a1efef",
+        "kid": "7b78eaf1c3bc5e96b3eb7754ac97f60e"
     },
     {
         "id": "544",
@@ -476,8 +476,8 @@
         "group": "Entertainment",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_202/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000573",
-        "k": "2b95d8a45135466783b206eb7bd1521a",
-        "kid": "5bb5c276ea18588da0202d53d49f0a58"
+        "k": "34f2cce3f892bba828b436eb50803208",
+        "kid": "80ff6bc8de21542991c47fd1b76de279"
     },
     {
         "id": "486",
@@ -496,24 +496,24 @@
         "group": "Movies, Specials",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_980/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000876",
-        "k": "e784ad8095953505ca05427249a3571d",
-        "kid": "f9820d92871e540e83ee56aeee8c1db8"
+        "k": "32e34a85038b01fb49ba2356d191f654",
+        "kid": "e0f5894fba6456f092b73585bec3e7d8"
     },
     {
         "id": "245",
         "name": "STAR GOLD HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",
-        "group": "Movies, HDC",
+        "group": "Movies, HD",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000277",
-        "k": "1128ea9a2858c1cd9740733e3419d70f",
-        "kid": "e8bfcdddfa0859129e2d1128d9d4d782"
+        "k": "fb01cab4882004d0ac9f1f3976fba7de",
+        "kid": "428bdc2ecabb5e90ac54bb96164b68ac"
     },
     {
         "id": "632",
         "name": "Star GOLD HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png",
-        "group": "Movies, HDC",
+        "group": "Movies, HD",
         "url": "https://delta10tatasky.akamaized.net/out/i/5771658.mpd",
         "license_key": null,
         "k": null,
@@ -526,18 +526,18 @@
         "group": "Movies",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1924/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001285",
-        "k": "6bb106f6b9021af0d2b9be33fa2d6a84",
-        "kid": "f6dee29d6c8b5e50868fa0fb0bb1088f"
+        "k": "f63fbc3ad69b0c5016fa3d760cb3573c",
+        "kid": "e099b74da9255217b43caebc94a34777"
     },
     {
         "id": "80",
         "name": "SONY MAX HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png",
-        "group": "Movies, HDC",
+        "group": "Movies, HD",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000076",
-        "k": "f02b12170101f60d99416a71fe669a12",
-        "kid": "83f2d4172d5f5cc0b82729526fc2e626"
+        "k": "861239e50a95303a82e2d5a4e1049728",
+        "kid": "eadb77d0040258749374a67a5a5c49fa"
     },
     {
         "id": "741",
@@ -546,18 +546,18 @@
         "group": "Movies",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1630/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000810",
-        "k": "82473ab4d7ed3d6abc020c02f77201d3",
-        "kid": "fb7e0b40c721562cbb72b6adc186189b"
+        "k": "57651460d45789183a1cb02bb60799c9",
+        "kid": "8c12af83aec555de852bedc268f7e6f0"
     },
     {
         "id": "503",
         "name": "Zee Cinema HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png",
-        "group": "Movies, HDC",
+        "group": "Movies, HD",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000528",
-        "k": "5c56ca93bf301adb250c48c4d5af12a7",
-        "kid": "2656594c07685c73a96601809054c139"
+        "k": "4e0bcd35a23ae1a0f5f34fa4204d50e2",
+        "kid": "9ccdcb4ab01a57adbabceda7eb501f59"
     },
     {
         "id": "123",
@@ -566,8 +566,8 @@
         "group": "Movies",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_185/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000131",
-        "k": "29c49b5069bafb565b38c4a2ec1d9121",
-        "kid": "6a1314011e4653c6928addc4de01a8bf"
+        "k": "3329ea2b050d037f34772cd00488ad4d",
+        "kid": "e493309cdfd45320a47d29e0c3c2a0f6"
     },
     {
         "id": "175",
@@ -576,8 +576,8 @@
         "group": "Movies",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_204/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000193",
-        "k": "90a6f329d57892e25275e31891792dc2",
-        "kid": "e882ce5cfe4451bfb1ca0497f1a383b8"
+        "k": "7d599c7d477aeb9f7bc9826ee83efc19",
+        "kid": "37a2b041f2bd5cab905f2d92b2cbe53f"
     },
     {
         "id": "727",
@@ -586,28 +586,28 @@
         "group": "Movies",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_955/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000783",
-        "k": "9660d40a88bf93040145777889a62b9a",
-        "kid": "8cc83094e3b65d04910b838beb36dc84"
+        "k": "cd4e33bd58345b582e85d7af26e79959",
+        "kid": "cb394d98b5225aa6a71074cee22576d1"
     },
     {
         "id": "666",
         "name": "Tata Play Theatre HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png",
-        "group": "Movies, HDC, Specials",
+        "group": "Movies, HD, Specials",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_899/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000705",
-        "k": "06162c8f0bf139a1ad78c5083131e78b",
-        "kid": "f0bc401578df5c3b8f700231c4fb527f"
+        "k": "baca20814e908ad94cae96c967cb1e1f",
+        "kid": "edd5842bba5c568a9558ee875ffaff1c"
     },
     {
         "id": "267",
         "name": "&pictures HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",
-        "group": "Movies, HDC",
+        "group": "Movies, HD",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000281",
-        "k": "b95723ade540ed58f4122c18627e5bb9",
-        "kid": "163d33cf7a6457ab9bc675a7b8b6546e"
+        "k": "2378fbad3c2d455200fae9ed48f7cc0e",
+        "kid": "fea5c4768634583fb9d1d163613ae251"
     },
     {
         "id": "148",
@@ -616,8 +616,8 @@
         "group": "Movies",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000162",
-        "k": "c7d2c06c2795ecade30df6f00d8de853",
-        "kid": "c2c45eca79275272921865b7b0cadcfa"
+        "k": "907922390dd786385bbabe5e19bc87a5",
+        "kid": "d69bc60f8d665c97b80273f9113a4579"
     },
     {
         "id": "1183",
@@ -626,8 +626,8 @@
         "group": "Movies",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1963/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001323",
-        "k": "2d1a6bf05321875bb3c9c0cb29036290",
-        "kid": "a6db99702f65551f93079e1df4343c04"
+        "k": "09c422ec3697ff438aba8f70db9bf6be",
+        "kid": "47934cf9d68452d8b19ef79f9f2c9e4d"
     },
     {
         "id": "677",
@@ -646,8 +646,8 @@
         "group": "Movies, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000056",
-        "k": "034c5b802ab52d07c03047e686684b84",
-        "kid": "313cdd83d3b557f58eee114ed7ea2248"
+        "k": "bee607d33178e171fd640139e5b1d4b5",
+        "kid": "dd747c534c33521aa59da14a2ae06fb2"
     },
     {
         "id": "53",
@@ -656,8 +656,8 @@
         "group": "Movies",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000054",
-        "k": "fbd1ce904b9803328d5615f259719dd6",
-        "kid": "ed22fcde6c975ff293f4a9512755622f"
+        "k": "126cfe195fa5dd7f25c4bdf47b31646a",
+        "kid": "8d38043530635ee0bf2d70ff62f03631"
     },
     {
         "id": "730",
@@ -666,8 +666,8 @@
         "group": "Movies",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000785",
-        "k": "445fdae6863390b3105343666a56d3c4",
-        "kid": "7686d6f2372156c9b5bed7a4c4ddab05"
+        "k": "2a915fad55f03b00a24007ed425b3b0c",
+        "kid": "91ca40f9956854dcb876c6bd03a1a4e9"
     },
     {
         "id": "100",
@@ -676,8 +676,8 @@
         "group": "Movies",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_205/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000106",
-        "k": "829cc3966fec0bf372fea212710b6376",
-        "kid": "cb2d9b8c67f9511eb31da9d3b3b7fa41"
+        "k": "7ebd363e8f8506aa632ddab1f496c5fd",
+        "kid": "3f75e69700125c93a2a8c1bcd154c606"
     },
     {
         "id": "1003",
@@ -696,8 +696,8 @@
         "group": "Movies",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000061",
-        "k": "4a9f98fe377d30fc9437cb610917294a",
-        "kid": "d17841cd03dd59088ad7f6cfe5cc72f6"
+        "k": "5b484524a63d1d8d6f1ee0df98f63b08",
+        "kid": "7c33a7176d7158588a890b49a3709164"
     },
     {
         "id": "7",
@@ -706,8 +706,8 @@
         "group": "Movies",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000006",
-        "k": "67eeb2c9740f75c14bf90b021e5151d3",
-        "kid": "75a3abe0a1045f87aecd3a421b63c9b7"
+        "k": "041c2aadfd25e705cdde1d6946a39c66",
+        "kid": "f88a5fdd43915fe1b1955fa400f59f13"
     },
     {
         "id": "120",
@@ -716,8 +716,8 @@
         "group": "Movies",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000128",
-        "k": "f78eb60f3c3128328f78119510504206",
-        "kid": "ba0fcc9269df5b449d95911ce98f4c1d"
+        "k": "79811c567409ae9e7e4c23aeb640ee1b",
+        "kid": "91c2d6b05e1c5160a5bb0bf5c565b13d"
     },
     {
         "id": "276",
@@ -726,8 +726,8 @@
         "group": "Movies",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_824/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000290",
-        "k": "cc1a9e3dde2f9315034a5d5eff3472a1",
-        "kid": "5d5413a7353358c4bf15567c936472b5"
+        "k": "f50180a2c08259e66a7dbc8e7e159daf",
+        "kid": "31828bb189f259b6b3897921a618fc8b"
     },
     {
         "id": "194",
@@ -736,8 +736,8 @@
         "group": "Movies",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_358/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000207",
-        "k": "87ab4d2bcd261b1129e58c7757132243",
-        "kid": "4ccddc21e836530692a70704c7525bd7"
+        "k": "7b1518d6759e2af0b7977e784929c1c4",
+        "kid": "871700018085561a94441bc0a030b10f"
     },
     {
         "id": "296",
@@ -746,8 +746,8 @@
         "group": "Movies",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_472/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000311",
-        "k": "56dfd9897f480afcc6ad9dddbde3435d",
-        "kid": "57b85c06a6aa591e816b7edf7fd21461"
+        "k": "ca639ccb7361d505912e1a501bce8cbf",
+        "kid": "72bbb8e4c992503b8b1af8d746e4c936"
     },
     {
         "id": "64",
@@ -756,8 +756,8 @@
         "group": "Movies",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_387/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000064",
-        "k": "5a0eba28e5e02dbd6ac9724cb0528bc8",
-        "kid": "00e92da030b858189e63e69aee0a4230"
+        "k": "fcc0523f49e0abb5dc3120369e4ccc03",
+        "kid": "4b0d45051ba950fa86a992194bca39db"
     },
     {
         "id": "1000",
@@ -786,8 +786,8 @@
         "group": "Movies",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_1118/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000935",
-        "k": "ee30488a6da7e1a2067ac8b27e400b44",
-        "kid": "29793be5b7da514b9ba72fcafe7bdd9f"
+        "k": "75cd63394373b78c82c7861868be8572",
+        "kid": "85811ff682dc532cbb1c502aadf3c3e1"
     },
     {
         "id": "731",
@@ -796,8 +796,8 @@
         "group": "Movies",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_956/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000793",
-        "k": "273d121ce4d30222e1761a85fb85009b",
-        "kid": "4df56edcc910552cad46af8a3562e7eb"
+        "k": "2d2a1fb391b2aedb827d7428e5265bb7",
+        "kid": "0ddd60d880575505883c510bd737b28a"
     },
     {
         "id": "12",
@@ -806,8 +806,8 @@
         "group": "Movies",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_380/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000013",
-        "k": "f249a66f0147d1d0bbdf7e8b06d25719",
-        "kid": "870d618c6fc555f780e1dacf39182d09"
+        "k": "2e9ce1e53084d646f36410da1ef8036c",
+        "kid": "1a00ed77420b5aa3ab4f28be311d435d"
     },
     {
         "id": "173",
@@ -816,8 +816,8 @@
         "group": "Movies",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000191",
-        "k": "d1a5a787a97a8de60de616b890669685",
-        "kid": "255177f2b29c5c43a4c137b969fd17cb"
+        "k": "e9e8f34f0081ab8509233fae30c83e92",
+        "kid": "3e2205aa93b759ef8f2d3aaf508f946c"
     },
     {
         "id": "234",
@@ -826,8 +826,8 @@
         "group": "Movies",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000248",
-        "k": "189288f5b42a51ebb53d78a9830893fc",
-        "kid": "18972c1633c75c40ba71ab2492a26326"
+        "k": "b533cefb96d0907f5649f8e12f230e15",
+        "kid": "4c5cb9afd55253ea80d8f2702c6ba4eb"
     },
     {
         "id": "32",
@@ -836,8 +836,8 @@
         "group": "Movies, HD",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000031",
-        "k": "7296dc1f8842849c294e367fc2ae2038",
-        "kid": "89413479ba07590893320faf05a6b7fd"
+        "k": "e73df8d4dc8a32623a54149a8d7a318e",
+        "kid": "228dbd960349523da448f5a2e3845046"
     },
     {
         "id": "558",
@@ -846,8 +846,8 @@
         "group": "Movies",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000587",
-        "k": "9f8a99f375d48f3c32bd907affb6c480",
-        "kid": "6b1890f8a3355caba0fea5154aede5ec"
+        "k": "8112440d2fa16b2a2a287f4728dff565",
+        "kid": "f09f12f8743c5d9890da88dd8f05072d"
     },
     {
         "id": "562",
@@ -856,8 +856,8 @@
         "group": "Movies, HD",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000592",
-        "k": "35c9a22d482c8988fe1b89bed289541b",
-        "kid": "4fc92212eccd5aba8949c08d97c0d565"
+        "k": "6662e1939b521a52f1016fcb212c3e7f",
+        "kid": "b5ba2a48c7525ea18017237544f16c70"
     },
     {
         "id": "210",
@@ -866,8 +866,8 @@
         "group": "Movies, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000217",
-        "k": "2bc8a4e1d7caa7a2b8520519a03401c0",
-        "kid": "7c4939ae3e545ca295da6e3d8e1f9ae0"
+        "k": "ca4055214b906c49176920a038c1b107",
+        "kid": "f00935ca60fb575daf285c018b742b19"
     },
     {
         "id": "599",
@@ -876,8 +876,8 @@
         "group": "Movies, HD",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000625",
-        "k": "f7e8fff18d55779d477b7202af4f57be",
-        "kid": "9aca8217b5be51b58f958453f977f9c0"
+        "k": "7b57170c8aed1d210f555bebe36c031b",
+        "kid": "cba4605f57545aeda7862d860e6c09ff"
     },
     {
         "id": "174",
@@ -886,8 +886,8 @@
         "group": "Movies",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000192",
-        "k": "01db8613f5d57193cc2390a09fe2266a",
-        "kid": "11f23e64045b56d5b8920e268135ecec"
+        "k": "d477c126027306bb97c473be90248498",
+        "kid": "767a716672005cd68de25f73b70796de"
     },
     {
         "id": "223",
@@ -896,18 +896,18 @@
         "group": "Sports",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000236",
-        "k": "48c457d4feed974209bc8a4bf0d95fa4",
-        "kid": "8267dde49a3453a89ee2d3b9843850ba"
+        "k": "e17a10e6716d4c861aae51865a00cc8a",
+        "kid": "503c9a2a6b0b5ce6965c497020e2470f"
     },
     {
         "id": "78",
         "name": "Star Sports 1 HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",
         "group": "Sports, HD",
-        "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd",
+        "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000077",
-        "k": "b253bbc1e959b37e96c96785fd4de02b",
-        "kid": "5968c7268663579da021e419ce1b30b2"
+        "k": "20aacf6bc29534d4b04eacc02adfe24a",
+        "kid": "bf56a80c94f457cfa77b9732b771e28b"
     },
     {
         "id": "235",
@@ -916,18 +916,18 @@
         "group": "Sports, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000250",
-        "k": "c32fe99d1e079f5e2f39306fdc53d5bf",
-        "kid": "fd94b990b4905d2fbafcfc73941d9cad"
+        "k": "825adcefefb3b7a610b01c9ad4620c4e",
+        "kid": "e05c05f9598f58b6a91f086c03b9b73c"
     },
     {
         "id": "24",
         "name": "Star Sports 1 Hindi HD",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
         "group": "Sports, HD",
-        "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
+        "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000020",
-        "k": "a368aac0e2a3eb0c98cc92d44d7298b0",
-        "kid": "e3fa7796bc135896b1e85c72b17b5abb"
+        "k": "26107549180c37fdbc72ef3594f5ce64",
+        "kid": "2960fe88940d5dccb7158216b8be14af"
     },
     {
         "id": "246",
@@ -936,8 +936,8 @@
         "group": "Sports, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000260",
-        "k": "93a1b2a4f8a252548fb2a3313a7a4b7f",
-        "kid": "25c2cad5821d5071a574cff21abc048b"
+        "k": "8f4387801e1c18521356c0398c947905",
+        "kid": "8048970ea1b258cd8ad2fd7de9090f9f"
     },
     {
         "id": "463",
@@ -946,8 +946,8 @@
         "group": "Sports, HD",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000486",
-        "k": "4e64eb09d920037ee3865cbd0c0b739f",
-        "kid": "6d0038c14d6151078e275ebfdeb18667"
+        "k": "248ca5397047430218a74b410f1a0003",
+        "kid": "a10592ce80db5e49a1115ba71af2debd"
     },
     {
         "id": "81",
@@ -956,8 +956,8 @@
         "group": "Sports, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000082",
-        "k": "1d4d52698080d453b032ca44277fd274",
-        "kid": "7d8cc6ee3c9a5a82a0071779f351a9a5"
+        "k": "ee5b2d41858329ccb2bc6c26492c60f6",
+        "kid": "b497f509fecd58aeacacfe4e3a239cc4"
     },
     {
         "id": "150",
@@ -966,8 +966,8 @@
         "group": "Sports",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000165",
-        "k": "baedbe3922a8b0bd90f16ce7a6c236d6",
-        "kid": "70d4ba0427945d62aacb3e2cc71765cf"
+        "k": "7f909c8aa4f118510046b60ad4d6b6ab",
+        "kid": "ebe3a59418b858d08138c3774fffe8b9"
     },
     {
         "id": "462",
@@ -976,8 +976,8 @@
         "group": "Sports, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000484",
-        "k": "dc78eab46264d457a5db0f0c429ce4a6",
-        "kid": "1cc361e170845936aea7b95c6efb478e"
+        "k": "201bc86611b9a343df331c0e45bd65d3",
+        "kid": "6990aa0a108b506ea70dc4ef4e146c19"
     },
     {
         "id": "170",
@@ -986,8 +986,8 @@
         "group": "Sports",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000189",
-        "k": "36247356bdcbb2dbdfeafb165843bf0e",
-        "kid": "4b2cff24ed0e56ab8ca16d11fe4a51f6"
+        "k": "339c7a49d37023ccf5fc565bf3778e0b",
+        "kid": "16cef1b6f0d953209fbdd21302eb77e7"
     },
     {
         "id": "464",
@@ -996,8 +996,8 @@
         "group": "Sports, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000485",
-        "k": "fd86b49ad205dec6b52be48e174e5192",
-        "kid": "4428be7aacfb557492c7fa552c3ecbf1"
+        "k": "cce626f5fed1f122c75b81a2976e0d5e",
+        "kid": "0956be40190d5b4bb5ff3a7e4173cf7d"
     },
     {
         "id": "171",
@@ -1006,8 +1006,8 @@
         "group": "Sports",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000188",
-        "k": "930fd013aa087ab3ccf0f1a5c49d8397",
-        "kid": "d660e43ebf50551a97f4fc2c1dd2f579"
+        "k": "7ade5c76d77d17190ef4cb100b821f6d",
+        "kid": "997e0c1550515e31a219add391e152a6"
     },
     {
         "id": "35",
@@ -1016,8 +1016,8 @@
         "group": "Sports, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000036",
-        "k": "6d99d08dd98ddbe01176e09eb77e0296",
-        "kid": "c71dd63f411a5099844a73fbe850c9fd"
+        "k": "f25abea0541dce549f24582d7399945f",
+        "kid": "a45bbf0b704b5b929ae3e637f3ce10ba"
     },
     {
         "id": "1033",
@@ -1036,8 +1036,8 @@
         "group": "Sports",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001142",
-        "k": "8483a24289243e82ffc42286fe6a0de3",
-        "kid": "d9257806677d59eaaadd80a572e93ace"
+        "k": "98ff55a05f027bb47bfea203f2ae264c",
+        "kid": "ff2d3855de585fe495452ed219ff9bcc"
     },
     {
         "id": "812",
@@ -1056,8 +1056,8 @@
         "group": "Sports",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000735",
-        "k": "d61af9f237b7772def7159a10f731793",
-        "kid": "86b78715b4b2543eb91a1307c2b507dc"
+        "k": "02c2f24571f98e818bad06c4ca2085e0",
+        "kid": "76e95f84695c57c9a0375f1798421a1c"
     },
     {
         "id": "691",
@@ -1066,8 +1066,8 @@
         "group": "HD, News",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000734",
-        "k": "240c2097957653140e293c92151eccac",
-        "kid": "8f85b6e2a20b5f4e8c57a7e5aae46454"
+        "k": "a2fd9f9365d7f66d67b7b81803b901b6",
+        "kid": "8dc5c1ddcdbd5ff6bbf9e9c7041fec31"
     },
     {
         "id": "322",
@@ -1076,8 +1076,8 @@
         "group": "News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_517/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000337",
-        "k": "dad29eb4e4cfc88478b7d9f74c982389",
-        "kid": "ea0fd52e89f155a69ed9b7ce683eece8"
+        "k": "aebebe15e4c6ed36bea79c8b27bc12e0",
+        "kid": "84e788c32d945bddab3aad62bf67701b"
     },
     {
         "id": "177",
@@ -1120,16 +1120,6 @@
         "kid": "fc2ba4faff5d55fb9b8858bfdd6b2537"
     },
     {
-        "id": "689",
-        "name": "Aaj Tak HD",
-        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png",
-        "group": "News",
-        "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd",
-        "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000732",
-        "k": "c47ea21219dc378d8620cd86e2fc99f2",
-        "kid": "fc2ba4faff5d55fb9b8858bfdd6b2537"
-    },
-    {
         "id": "153",
         "name": "Aaj Tak",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png",
@@ -1146,8 +1136,8 @@
         "group": "News",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000273",
-        "k": "6dfe17e76ba1043bfe02f45b908eb69f",
-        "kid": "1e92f8e2c957571084dc751e9354834a"
+        "k": "25f21d4738461c6c6c53b9e6a125a95d",
+        "kid": "16357595725b52caaa985a95250547ed"
     },
     {
         "id": "872",
@@ -1176,8 +1166,8 @@
         "group": "News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1874/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001220",
-        "k": "060252aa0dc47e2f61292d535a2c09ec",
-        "kid": "3fccc2e1f0235682b59a4f235247f0e9"
+        "k": "6b27e4c51000f7db32262ab2ff381daa",
+        "kid": "c5a994c5fe8857c48582810533017158"
     },
     {
         "id": "209",
@@ -1196,8 +1186,8 @@
         "group": "Educational, Knowledge, Specials",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1324/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001079",
-        "k": "c10fa2506a0a843981c66d746dea52cc",
-        "kid": "dc5121a32b865cb29c4069adf7e69f91"
+        "k": "887a94d5518edc99d0c38001ceddc11b",
+        "kid": "a6627689659859ddba2f429faa91d991"
     },
     {
         "id": "928",
@@ -1206,8 +1196,8 @@
         "group": "Educational, Knowledge, Specials",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1323/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001078",
-        "k": "bbe3a021f82c2e73110490e9a2f36bf4",
-        "kid": "aeb2665f88ed50fd870a0f110fa9028f"
+        "k": "8ee77746766515b694e514f989976b69",
+        "kid": "e04e6617a03a573ea09fb64c30c584af"
     },
     {
         "id": "106",
@@ -1226,8 +1216,8 @@
         "group": "News",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000547",
-        "k": "429f95c3b2f6b34a6ae9593ff7cd0345",
-        "kid": "f5563d3322675e1f8062629a38bf7b2a"
+        "k": "c3d8bbd80873456e6d04766a091414aa",
+        "kid": "3ddd22c9afde5428ac5a73e8d8e450bf"
     },
     {
         "id": "696",
@@ -1296,8 +1286,8 @@
         "group": "News",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1791/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001117",
-        "k": "bb279c7b885bfa967937a50dc0bf9621",
-        "kid": "4dee4937e9d553bdad1279abffc59b14"
+        "k": "40547925006c17204ea77c16888ad52c",
+        "kid": "063a824e01215c94b57e3e23a35d6ff1"
     },
     {
         "id": "831",
@@ -1396,8 +1386,8 @@
         "group": "News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000728",
-        "k": "3b14e72fe74ff7047293c939d5619c62",
-        "kid": "d75791483aa45b18b4f2c93c2e61148a"
+        "k": "7bfb1e0b9b8abaa804c34d3854049a13",
+        "kid": "7360b5fd63935ae582d261ecabe5341c"
     },
     {
         "id": "414",
@@ -1406,8 +1396,8 @@
         "group": "News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_658/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000434",
-        "k": "6909e627a27a7d03c1498c731a9218c5",
-        "kid": "01f35e820da858eb898acb9098510ac4"
+        "k": "60d9e70a677a9ff634831a893a32db17",
+        "kid": "00c614a9fbf258fa864d3ae64c5e35ff"
     },
     {
         "id": "344",
@@ -1416,8 +1406,8 @@
         "group": "News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000382",
-        "k": "de1f59969708f972224bb2da5428dc2a",
-        "kid": "38a49e0f6924507ca62b5b770112949f"
+        "k": "5f242c34aefb549af41b069351b2a174",
+        "kid": "88aadbb6515a53259a999d8cd6b80bc3"
     },
     {
         "id": "291",
@@ -1516,8 +1506,8 @@
         "group": "Business, News",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_421/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000274",
-        "k": "d09fd6faa94b83d623de08ead8121e10",
-        "kid": "e8e8da5a1fa757039da02aeb5b8dda62"
+        "k": "07b35560783042730c87930836cc7d2c",
+        "kid": "b0ec0455411a53ac803975416a584425"
     },
     {
         "id": "204",
@@ -1536,8 +1526,8 @@
         "group": "News",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_281/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000216",
-        "k": "c903c860f02d99256ceca1870d043ab2",
-        "kid": "ac088ed78f8256fba89509aeb442fa61"
+        "k": "0a077913424a280537bfe6a67ce0a90a",
+        "kid": "5f29209ae3085cf3bde429eb543cfab0"
     },
     {
         "id": "212",
@@ -1546,8 +1536,8 @@
         "group": "News",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_311/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000227",
-        "k": "54dd8dfade3cc88e6b539013ed6228c0",
-        "kid": "ced96631e7ab51a3a33619501e3eaafc"
+        "k": "3d966acaad9a99c8a6796cd91325f21c",
+        "kid": "9267a8f4281f51489c8a004d9ef8dd68"
     },
     {
         "id": "208",
@@ -1576,8 +1566,8 @@
         "group": "News",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_162/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000095",
-        "k": "188464134d32a6f570c4cf3b8f36662a",
-        "kid": "cb37dc3b38d25381889796ced5b1744e"
+        "k": "7deb482381fa6a85d0f1d6f8e4123847",
+        "kid": "45fb04f1b6a75210bd0aa5993a4d2ab6"
     },
     {
         "id": "1",
@@ -1626,8 +1616,8 @@
         "group": "International News, News",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_422/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000269",
-        "k": "f207a530f854049e43bf1c69207711a9",
-        "kid": "a9722664bdd05de58f7d2d6429b399ca"
+        "k": "eb91a6e22fcd7c4f9a255bd9a16b903b",
+        "kid": "5525ba9425d65c6190e3ac37556fa88f"
     },
     {
         "id": "72",
@@ -1646,8 +1636,8 @@
         "group": "Business, HD, News",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000318",
-        "k": "b8af75606f3fae76f30a6f735a3837a4",
-        "kid": "d1a62c8b4d2858c88efffb9398362654"
+        "k": "d5a86e1781f199fc37111cfa32e0e6a1",
+        "kid": "2f2a7ec8466b535bb33ee34aeb6ed78a"
     },
     {
         "id": "324",
@@ -1656,8 +1646,8 @@
         "group": "News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000342",
-        "k": "29b58eb4f1c607974f847dff79ec57fc",
-        "kid": "5a4865d5da31589e89e4e8f65fa8d3c5"
+        "k": "54ed59d053eacb507fa3b1db2672154d",
+        "kid": "6bd7b464048b57ae8fa06ad6b04e2322"
     },
     {
         "id": "93",
@@ -1716,8 +1706,8 @@
         "group": "International News, News",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_410/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000257",
-        "k": "6b1ade695f59b2cca864836924ce8277",
-        "kid": "315c6b03a3945c5e8dd79e07dbe0a011"
+        "k": "dcdf29be765dd0e6bf52544f617e19d5",
+        "kid": "374a64ec0ccc5497820af9074a59cbb3"
     },
     {
         "id": "188",
@@ -1736,8 +1726,8 @@
         "group": "International News, News",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_187/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000204",
-        "k": "0b9e4f194529d718a6c73a4a09610ec9",
-        "kid": "77f0eed2b26c5be986857b39ee2e2f36"
+        "k": "64530c89f4efe1bca08f29b07b40d562",
+        "kid": "8602245c2c5a500c9091aa6cb0db3204"
     },
     {
         "id": "157",
@@ -1776,8 +1766,8 @@
         "group": "International News, News",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_376/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000057",
-        "k": "710586401c8bfc1df67a0add9590a9c4",
-        "kid": "7994e21ff3155196b7802135ad6106c3"
+        "k": "9ed88efe3644c5a4dbab0b24204b20e5",
+        "kid": "e4794887b5145d52b1fb0ac9e984c757"
     },
     {
         "id": "105",
@@ -1816,8 +1806,8 @@
         "group": "Animation, Kids, Cartoons",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000614",
-        "k": "0ef622fa74576ec4e3b67509f27982fc",
-        "kid": "426a8935127e5dc6a1d33c1763735c1e"
+        "k": "f5d0daf2e70c552489de0d14700b9b65",
+        "kid": "43bf3026eb9450f0b5f57e6aa24ae66c"
     },
     {
         "id": "114",
@@ -1826,8 +1816,8 @@
         "group": "Animation, Kids, Cartoons",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000119",
-        "k": "a484a180586af64296c969e39386140c",
-        "kid": "996314059a925c97b0c4faadc0562cc1"
+        "k": "053a7d28c31f524bb43eb5d20d3da222",
+        "kid": "82feb65cc88d5f388e745673fd738787"
     },
     {
         "id": "71",
@@ -1846,8 +1836,8 @@
         "group": "Animation, Kids, Cartoons",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000442",
-        "k": "52d568b903982a62dda318c5b12c850b",
-        "kid": "b101d83cce885f78a0a14340260bf77c"
+        "k": "141f6ac2535a4ab428c423871a88b218",
+        "kid": "632696558c515095986b818181e98826"
     },
     {
         "id": "138",
@@ -1856,8 +1846,8 @@
         "group": "Animation, Kids, Cartoons",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000149",
-        "k": "e92231afed52bb3e27b265f0f7a446b7",
-        "kid": "2c84bf042d905b839045320661cfc8f4"
+        "k": "9bf3f6b4b0cc121bb93144509aab58d7",
+        "kid": "9a1c97750e7c5967bb7def2166f7553b"
     },
     {
         "id": "626",
@@ -1886,8 +1876,8 @@
         "group": "Animation, HD, Kids, Cartoons",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000718",
-        "k": "bbedfd11b03206844d01452154d9058c",
-        "kid": "d86f118298ee5059a7067d02485aa20a"
+        "k": "cce05eec920bf9062be0b5796bb24df7",
+        "kid": "14b0662d6b7b59df8514407f2dc5d62d"
     },
     {
         "id": "238",
@@ -1896,8 +1886,8 @@
         "group": "Animation, Kids, Cartoons",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000252",
-        "k": "bce44f9c551f838b04b55fcd102c00b9",
-        "kid": "27045b6b44f25a5fb5a4fc1dd0e578c3"
+        "k": "6f522053f85efd167f50c39594b27a8b",
+        "kid": "49a1636db5b351759e5c06feef31fdaf"
     },
     {
         "id": "239",
@@ -1906,8 +1896,8 @@
         "group": "Animation, Kids, Cartoons",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000253",
-        "k": "11cb314d70d6b28f92d2861af2f87cbe",
-        "kid": "10985e1e258c599facf0df2a703b04f9"
+        "k": "a29ddd779077ed40131132a6f02d99b1",
+        "kid": "b03f151d6e9952778d7c950c28825361"
     },
     {
         "id": "119",
@@ -1926,8 +1916,8 @@
         "group": "Animation, Kids, Cartoons",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000135",
-        "k": "54c4813b1f0281da91bcf0f255e2a765",
-        "kid": "5f27a807b8bf567c88e47bcd52b7f73d"
+        "k": "db9eae90a85a3b3cb383c91407d3878e",
+        "kid": "edae165a44b8567f88e6274e0b08e644"
     },
     {
         "id": "45",
@@ -1936,8 +1926,8 @@
         "group": "Animation, Kids, Cartoons",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000044",
-        "k": "122bb43d53b0461c0e4bba5954a40cb5",
-        "kid": "77de287e104b5c369d554be9364e8d36"
+        "k": "805cef50b76bf0f27e8d2560f4710748",
+        "kid": "90a4c729d8b15d1998f0baacc0fb2624"
     },
     {
         "id": "994",
@@ -1956,8 +1946,8 @@
         "group": "Kids",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001009",
-        "k": "fe0fca3f23d8e2d5f015bd0c1e5c8701",
-        "kid": "4ab1cb3ca9c25739a021a8aa0e8460aa"
+        "k": "ca5c21c2f8bfdb7cbb1ae446654fca14",
+        "kid": "557943cb45d45192a620e04b66348c9b"
     },
     {
         "id": "905",
@@ -1966,8 +1956,18 @@
         "group": "Kids",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001053",
-        "k": "aad9758a1f2219a4aefe56850f299d79",
-        "kid": "3e1fc8f2d5be5f4abc6ff291c8264338"
+        "k": "bc3b2e3410a8065ce03d8d53c0c86f6e",
+        "kid": "30d2fd2dc4f45cff904b2f31c44d98cf"
+    },
+    {
+        "id": "1363",
+        "name": "Tata Play Anime Local",
+        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPANML_Thumbnail-v2/TPANML_Thumbnail.png",
+        "group": "Entertainment, Kids, Specials",
+        "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_2115/output/manifest.mpd",
+        "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001484",
+        "k": "5ee96f7b3c9df7b420589f820a678a07",
+        "kid": "8c5f21f800fb5c84b04f7bf525d0f39b"
     },
     {
         "id": "118",
@@ -1976,8 +1976,8 @@
         "group": "Animation, Kids, Cartoons",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000124",
-        "k": "483577bae127a18dd19b2dc79a1a465c",
-        "kid": "c61f5cb98def5c0ba16eb7251c48f0ad"
+        "k": "fcd51a97890c9937dff8f664dc8c52b6",
+        "kid": "75fc83ecd3ee5544986fca3d3a6a15b7"
     },
     {
         "id": "144",
@@ -1986,8 +1986,8 @@
         "group": "Animation, Kids, Cartoons",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000157",
-        "k": "9fea212e4e670cb1cd8c9d6b3561289f",
-        "kid": "7762963c92cd5f4cae6ae5e375b28dfa"
+        "k": "4cc30b8a584151366f3196e7d3295d24",
+        "kid": "933126c95df35df9b0e6dffff9ef6151"
     },
     {
         "id": "816",
@@ -2026,8 +2026,8 @@
         "group": "Documentary, Knowledge, HD",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000631",
-        "k": "ab211cdcd5920dba15796533705bb9e6",
-        "kid": "5b32b29a70705530b4d2c5185ec259c0"
+        "k": "5d3b10920628ec29f100d56d0867d8ef",
+        "kid": "cbe05175af075e92891d983cd69e1cad"
     },
     {
         "id": "137",
@@ -2036,8 +2036,8 @@
         "group": "Documentary, Nature, Knowledge",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000148",
-        "k": "cb295388f0d3c77e388aa6d416729cf0",
-        "kid": "718f93ee7e8c504e85a1d715cc37c2ec"
+        "k": "b8c9e49f527eca242e4ed0aeaf2f656d",
+        "kid": "b7d6329e23cc54aeb5b6c306526f4eed"
     },
     {
         "id": "413",
@@ -2046,8 +2046,8 @@
         "group": "Documentary, Nature, Knowledge, HD",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000433",
-        "k": "f7e7b73e77982d668314abbdbf835a4e",
-        "kid": "5bb9e888ee5b5dfab6ab972d68ce01f8"
+        "k": "96a928206041878dfbe38dfa30755828",
+        "kid": "9bca0e4fddce5d7b95c6a88c77dac373"
     },
     {
         "id": "184",
@@ -2056,8 +2056,8 @@
         "group": "Documentary, Nature, Knowledge",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000140",
-        "k": "6dc3435160846493a3b8e11304f2ae70",
-        "kid": "f85b9a9da5fe5a349b10358dc7676a42"
+        "k": "f936766e87677397827be53860caa345",
+        "kid": "9e3e93ce9e31565f9b15a5682c3d350d"
     },
     {
         "id": "341",
@@ -2076,8 +2076,8 @@
         "group": "Documentary, Nature, Knowledge",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000233",
-        "k": "01cf326e87eea75b26a3ea54898f8920",
-        "kid": "f62490b8ab985b688334472bb46bd225"
+        "k": "14a5891587bc5d963a9073b8c032308a",
+        "kid": "11fcd00d07ac51b8b29ae1e577ebd102"
     },
     {
         "id": "287",
@@ -2096,8 +2096,8 @@
         "group": "Nature, Knowledge",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000138",
-        "k": "3cdd7b813829896ed8a251acef1f9ad6",
-        "kid": "80aaf0673ac7516cbb2eb5ce01fa9958"
+        "k": "9349f51ea366ed56841a654521d0853f",
+        "kid": "727a6ee29fcd5339a243d38a0b3d46ce"
     },
     {
         "id": "113",
@@ -2116,8 +2116,8 @@
         "group": "Documentary, Knowledge",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000640",
-        "k": "e661c0a8a55525246c5b29b0acfb6cc4",
-        "kid": "eafffafd12065b348086bbdab6f4b1e4"
+        "k": "69e5ee21828fcbad24b18ad51c6793f6",
+        "kid": "bf3f45df921d5c429f274f4b76243b5b"
     },
     {
         "id": "172",
@@ -2126,8 +2126,8 @@
         "group": "Documentary, Knowledge",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000190",
-        "k": "e6870b2269220dc9d6eb94676c608be8",
-        "kid": "85f0635605cc51dc801de00324571c5d"
+        "k": "380a788c386784c06fb0ce7940f0ff4b",
+        "kid": "5bd9a1dbdcce5ada81d90bbc193ec40c"
     },
     {
         "id": "460",
@@ -2136,8 +2136,8 @@
         "group": "Documentary, Nature, Knowledge, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000483",
-        "k": "07dc8f57e699ff4622083ab7435e776a",
-        "kid": "adb47eb7405c59c49c50e8f096386124"
+        "k": "288abdf25e444a4dff1ad982274cadf2",
+        "kid": "c250f3c0808e52fbacd6b29bebe5851b"
     },
     {
         "id": "158",
@@ -2146,8 +2146,8 @@
         "group": "Documentary, Nature, Knowledge",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000175",
-        "k": "14e5ee08f541a0e4d106fa20fcc3e0df",
-        "kid": "bce5dd74c8ec50c490c199f78cf58e39"
+        "k": "83b3587ac9dabaeb59cea8fa04a3c2c2",
+        "kid": "315c66cd17585310ab69369628d91ec2"
     },
     {
         "id": "923",
@@ -2176,8 +2176,8 @@
         "group": "Food, Lifestyle, Travel",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000371",
-        "k": "01993a56468a650b7655fcd15eefab6e",
-        "kid": "7667e50495f35e3fabe2db67f9dac926"
+        "k": "c150ac31f17cb61d58eed7446dc15656",
+        "kid": "f8c813bdc892534996277cf1b6f5ba3c"
     },
     {
         "id": "646",
@@ -2186,8 +2186,8 @@
         "group": "Educational, Knowledge",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_881/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000682",
-        "k": "55f5a74e23446f5ee5b97957a5b59f21",
-        "kid": "33495595b8515123bdfa50e302adcf4e"
+        "k": "569115756f4604a92e10412bacc93494",
+        "kid": "09812d2277bc58ea9848ca9a3e185111"
     },
     {
         "id": "480",
@@ -2196,8 +2196,8 @@
         "group": "Food, Lifestyle, Travel",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_780/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000508",
-        "k": "8fe17028e0769a7e6e41fde45835099f",
-        "kid": "fe394a80513059be99699bc8b5c78f58"
+        "k": "6c59f0d58e34afc19875adab2b25e41b",
+        "kid": "73ce6223888b5043b3c6641fe46cdb06"
     },
     {
         "id": "135",
@@ -2206,8 +2206,8 @@
         "group": "Food, Lifestyle, Travel",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000145",
-        "k": "14b35f2a8e6f758183758eb4dd30e8e7",
-        "kid": "1a2148abc5ce58be8729d970e27fb12e"
+        "k": "f5613504cab4e003ff13e05195cca04f",
+        "kid": "4823d0122ff057d3a20af984fb06cdcc"
     },
     {
         "id": "136",
@@ -2216,8 +2216,8 @@
         "group": "Food, Lifestyle, Travel",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_111/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000147",
-        "k": "f5f7590eaa3c8003fe9edb508d104ab9",
-        "kid": "3ccd6365ea205bab981095f31e7d7dd5"
+        "k": "f989845c776904feca087de1beb90b0e",
+        "kid": "687f9e547c955591809b106b64235dfe"
     },
     {
         "id": "228",
@@ -2246,8 +2246,8 @@
         "group": "Lifestyle",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000050",
-        "k": "2d64f4545b5ec9d663f6dbff876a926e",
-        "kid": "0b2ccdc491655f9eb423e363fa729218"
+        "k": "de9b8b995f51ac8f50a857773c3af0fd",
+        "kid": "9118efbddd085cfb8991e13ebfcf4186"
     },
     {
         "id": "117",
@@ -2266,8 +2266,8 @@
         "group": "Lifestyle",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_404/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000240",
-        "k": "016481ecd71720e4b1c06edca103acd4",
-        "kid": "d95650660686575e87d1933e460625bf"
+        "k": "d6830772c08c74df28a159afc3c293d9",
+        "kid": "740793c5025054d3b1ca2db779997bf9"
     },
     {
         "id": "735",
@@ -2276,8 +2276,8 @@
         "group": "Devotional, Spiritual, Specials",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1632/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000797",
-        "k": "ed1879e5a7745ceafe62b15de87147ea",
-        "kid": "453b2466048454649d303854c6d243f9"
+        "k": "d50a7c75c23ac1e3e6f343b22c64d3c8",
+        "kid": "a44d1b8974b05082b63b4e6a5cd38ff1"
     },
     {
         "id": "406",
@@ -2286,8 +2286,8 @@
         "group": "Music, HD",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_638/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000426",
-        "k": "4083943f9eeeb542e445d06cada3fc0e",
-        "kid": "28f0c9d436225aae8762060b774499b2"
+        "k": "3ebdad1a2c7fff374d5dd9efa14e75b5",
+        "kid": "09ea4fda27385705841a757e74c996e3"
     },
     {
         "id": "103",
@@ -2296,8 +2296,8 @@
         "group": "Music",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000104",
-        "k": "5f922ab1d8117842c2f8e29fff7aa1b1",
-        "kid": "6faa28b83cfc58af9005bf804802e83a"
+        "k": "c818d2735c69738b811843b27357091c",
+        "kid": "9032b35560cd5516b175cde17faf1fb9"
     },
     {
         "id": "139",
@@ -2306,8 +2306,8 @@
         "group": "Music",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_201/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000150",
-        "k": "2d9663cea9c0a17b2b525d567f87da1d",
-        "kid": "eaa1daea5b5950aeb53f0c9321bf46f3"
+        "k": "b2c08b017944855a09d61328cf1c0a36",
+        "kid": "191bac73ba0b5077b6549c330cbabc52"
     },
     {
         "id": "96",
@@ -2316,8 +2316,8 @@
         "group": "Music",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_164/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000100",
-        "k": "951d6967133663565ab92f9a89012196",
-        "kid": "9df7abe698f35f278df574cf4b655657"
+        "k": "6fdde703aa8e298dcde5a6b7d473a414",
+        "kid": "2050da268342552991e81a76a1721468"
     },
     {
         "id": "224",
@@ -2326,8 +2326,8 @@
         "group": "Music",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_278/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000237",
-        "k": "ca34ef5fcfdcf28d7ce0ef34323e85f0",
-        "kid": "e9c60e0e88e050eeadc42debe9953064"
+        "k": "19e47ec1f6da1abb53c8c4735ef55ae7",
+        "kid": "ae8a4434323a5f54be92a1464e2e4e17"
     },
     {
         "id": "405",
@@ -2336,8 +2336,8 @@
         "group": "Music, HD",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_637/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000425",
-        "k": "af0d9783850677cbfb909a5162d0d589",
-        "kid": "f3490933d18351bab730370c9f77fbcb"
+        "k": "d2a3f4b0dc8881a803831af5d3d326e3",
+        "kid": "cff47506b8cd5a2ab669355bd3369b5a"
     },
     {
         "id": "236",
@@ -2346,8 +2346,8 @@
         "group": "Music",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000249",
-        "k": "c9217f923d8b2120c45bf251abbe82a6",
-        "kid": "77d88f11a0a053239c99cd97d378a2fe"
+        "k": "3b85ded065874a880dc59665e8269e11",
+        "kid": "694eed925a595056890e2db1a3bc9781"
     },
     {
         "id": "9",
@@ -2356,8 +2356,8 @@
         "group": "Music",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_277/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000008",
-        "k": "512ad41af25240b8e0bdf505ef670a46",
-        "kid": "aa3c56d14a145c2da317facb0217352b"
+        "k": "9677217506f5ea8503816718e9fb7f2c",
+        "kid": "ed7b21ded7ea5af5b8dea023a5fc2e7b"
     },
     {
         "id": "17",
@@ -2366,8 +2366,8 @@
         "group": "Music",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_279/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000019",
-        "k": "5155a550800af6ef3afc4cd287f5c46f",
-        "kid": "46a97672b4cf5a6fbce8604d3d250989"
+        "k": "a2f18e7c649b0f9c59d04325d265ddde",
+        "kid": "a767d630cb5d50c68f7af34605fe29be"
     },
     {
         "id": "517",
@@ -2376,8 +2376,8 @@
         "group": "Music",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_843/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000552",
-        "k": "cb73cca8d5706551f1e246d2a8f8d19a",
-        "kid": "6793c3b8cc355a7b995b7d35397e4311"
+        "k": "f030456a9a33a3d70516478323bf8540",
+        "kid": "32c577b2134757e3a4c7c1c460e364f2"
     },
     {
         "id": "39",
@@ -2386,8 +2386,8 @@
         "group": "Music",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_355/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000034",
-        "k": "702ff73104d362f8cc07531c23453589",
-        "kid": "178b92be13e65ff4a6973f1b449165db"
+        "k": "ed81ce91c5d522dd85fb7ae5e82dfa93",
+        "kid": "f0d06195d1ac5cdcb37b5e778bf714ae"
     },
     {
         "id": "733",
@@ -2396,8 +2396,8 @@
         "group": "Music",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_961/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000796",
-        "k": "64617f83427a427cc3b53c2323dc7bd9",
-        "kid": "a7a24bddf9bd56a080101acd8000b984"
+        "k": "be37b07701b56bcf6354f30cba043222",
+        "kid": "89b0203ab74751b583d4381d7721267d"
     },
     {
         "id": "539",
@@ -2406,8 +2406,8 @@
         "group": "Music, HD",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_817/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000567",
-        "k": "fae48877da5fa5155d4fb96c08029023",
-        "kid": "79a768dd70485a44aa8cadca629b5536"
+        "k": "843f323c5451a6fdf790b56591805b65",
+        "kid": "6501b50fa8a8595ca7c7712e4e62377e"
     },
     {
         "id": "38",
@@ -2466,8 +2466,8 @@
         "group": "Spiritual",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_605/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000405",
-        "k": "c68831ac4ab26d46d101b6458d224f20",
-        "kid": "8d2c023259255773a1b869c2f11ad519"
+        "k": "9271def5f3a276dd534d5f22a37ee49b",
+        "kid": "b4258290407259d3bd88522be6cec106"
     },
     {
         "id": "420",
@@ -2576,8 +2576,8 @@
         "group": "Devotional, Spiritual",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001087",
-        "k": "2f251eb2854ea9485633832cee6093af",
-        "kid": "44806eca7b00598382c785706af4bbb0"
+        "k": "f611043ea8326f1262dd144ce4a51f5d",
+        "kid": "e61a147b352e5390bb8fef5786efd0bd"
     },
     {
         "id": "911",
@@ -2620,6 +2620,16 @@
         "kid": null
     },
     {
+        "id": "790",
+        "name": "Ek Onkar",
+        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48807-k4m7ud0o-v2/imageContent-48807-k4m7ud0o-m2.png",
+        "group": "Devotional, Regional, Spiritual",
+        "url": "https://delta45tatasky.akamaized.net/out/i/1357.mpd",
+        "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000879",
+        "k": "af9cbaaf07705ef8bf30effa4888d62c",
+        "kid": "ec7c5057c72c40799e2bcbe639aac541"
+    },
+    {
         "id": "970",
         "name": "MH One Dil Se",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69027-kzo69re0-v1/imageContent-69027-kzo69re0-m2.png",
@@ -2636,8 +2646,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_1111/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000909",
-        "k": "91c084113ee99e06459da06398df7422",
-        "kid": "5f5a40c7ded858058f044c95af8e3055"
+        "k": "0ae45091c5b1d65bf26ed057fbfdacd2",
+        "kid": "0ce4071eae84513cbb5eebf7636deb09"
     },
     {
         "id": "830",
@@ -2646,8 +2656,8 @@
         "group": "Movies",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1126/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000957",
-        "k": "24b7f335f5a28b440ea6733b4e8ede5e",
-        "kid": "73845f535d33526196547f29d4979f31"
+        "k": "a16ac834776bc5e90e6b3bfe8e656836",
+        "kid": "784fe2c77233598e92dae508b76fb416"
     },
     {
         "id": "181",
@@ -2676,8 +2686,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000788",
-        "k": "4dffa8fb6e2156fded31ad9c9b02528d",
-        "kid": "7077943b05475a298e9723603bc2a980"
+        "k": "b2727de06ed7cb126125dfffe3a9d87e",
+        "kid": "65fade987c9e504c90f2efeb7c656b33"
     },
     {
         "id": "899",
@@ -2686,8 +2696,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001048",
-        "k": "739325681115be407e45eacb032c36f9",
-        "kid": "2a594962ef975d83b0b18bd895b0dfbb"
+        "k": "fe6a0d705b8144451cd7a8643acc73c6",
+        "kid": "5add4870c4825f418c5a229fd9128d0e"
     },
     {
         "id": "1165",
@@ -2700,6 +2710,16 @@
         "kid": "8d5d23eb36965184b066bd63ce2023f3"
     },
     {
+        "id": "838",
+        "name": "Kashish News",
+        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56320-kf6aheeo-v2/imageContent-56320-kf6aheeo-m3.png",
+        "group": "News",
+        "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd",
+        "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000972",
+        "k": "b8357fa1a4116025e029fa2832a368a2",
+        "kid": "d09e48ed0f215c7494ebdf1c454812aa"
+    },
+    {
         "id": "79",
         "name": "News18 Uttar Pradesh Uttarakhand",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23223-jeyhnzfs-v1/imageContent-23223-jeyhnzfs-m1.png",
@@ -2710,24 +2730,14 @@
         "kid": "bfa11a38c63a57de8da664b5f6e71e02"
     },
     {
-        "id": "838",
-        "name": "Kashish News",
-        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56320-kf6aheeo-v2/imageContent-56320-kf6aheeo-m3.png",
-        "group": "News",
-        "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd",
-        "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000972",
-        "k": "01e6499192d5f93e3510a9bdf928f471",
-        "kid": "ecc91025af6c58cb9353fa4e357526d5"
-    },
-    {
         "id": "637",
         "name": "Zee Uttar Pradesh Uttarakhand",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21315-je85i72w-v1/imageContent-21315-je85i72w-m5.png",
         "group": "News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_874/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000671",
-        "k": "fca6f0d0247a6f8c3c3ebcc41c12f713",
-        "kid": "57663c5f0fce575d9b3576bb32b26acf"
+        "k": "293a73af09a18f6842ff9683dd77e2b3",
+        "kid": "cfc424120d6f55248966347f303caa2d"
     },
     {
         "id": "166",
@@ -2746,8 +2756,8 @@
         "group": "News",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000021",
-        "k": "d5db6d88bbb3dfb3c7543aaf4a525377",
-        "kid": "8f2de2574f4b5d8586619676d62b69c6"
+        "k": "06ac18c242ab71f5a8b5dbfe78d42935",
+        "kid": "439dd9db8b1f52c493ffddcc15c5b9b3"
     },
     {
         "id": "30",
@@ -2776,8 +2786,8 @@
         "group": "News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1124/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000948",
-        "k": "77a080002b9437c5fad56779cd8f8eb4",
-        "kid": "8f872d6e002b5b52bf9eb5b31a159e1d"
+        "k": "d2a3e711b43d1ca92b6939fc0473cc05",
+        "kid": "35c3cbb758785969afac02ac401db95c"
     },
     {
         "id": "973",
@@ -2796,8 +2806,8 @@
         "group": "Regional, News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_2051/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001414",
-        "k": "e1103fe0f11febe947a082bfca9ca554",
-        "kid": "e00924de384a5712b1ce229ea67c41da"
+        "k": "823587854816b5fbf1f500b8c46b6da3",
+        "kid": "86a8d24b30465fba81ddd9c6480a1e6f"
     },
     {
         "id": "1344",
@@ -2826,8 +2836,8 @@
         "group": "News",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_504/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000330",
-        "k": "21d6d3c43636784b317310e98b2c62e4",
-        "kid": "262175bb2d9158a1ac4b4a01486d8034"
+        "k": "89120f4f9e0ebe7cbbc989c09d1322da",
+        "kid": "7bce0a8862755fe7b99cf5d7dfd62cb7"
     },
     {
         "id": "339",
@@ -2836,8 +2846,8 @@
         "group": "News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_525/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000357",
-        "k": "96389298b8ca03a9253badee3b87b755",
-        "kid": "3c920608406f5ecda41cf5d6fe3fac01"
+        "k": "c0e85598b32a07f157fa91a82f480587",
+        "kid": "b80f70cc8034527ba6c64350a750daf4"
     },
     {
         "id": "317",
@@ -2846,8 +2856,8 @@
         "group": "News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_505/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000331",
-        "k": "a1f3e2ab4d0f1f233bc0a19e27b58af9",
-        "kid": "b3453835ddd35fa2a30a18e80802e4ed"
+        "k": "b734f521e936fcbeabda87f5a98b4d5a",
+        "kid": "1525dfce9c0f5bb8aa4cf382181689a6"
     },
     {
         "id": "203",
@@ -2866,8 +2876,8 @@
         "group": "News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_837/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000548",
-        "k": "4d2e6846f6df063663bf97028b0887eb",
-        "kid": "309eff7b1e055c418cdeeb62dd177455"
+        "k": "0f8a0b8b31388b0280e18b62e45485c3",
+        "kid": "2e9cfd3e9974550591f0eadca9a99428"
     },
     {
         "id": "27",
@@ -2886,8 +2896,8 @@
         "group": "News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_885/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000690",
-        "k": "e9a412e3274a29d23f0a3bef90819f3c",
-        "kid": "d896dff60a0a553ca682a716cac5de0d"
+        "k": "7e26d5887b0e4eb06c2c3de879c7b543",
+        "kid": "18e58e273d095aebabfd73e9143dd8f8"
     },
     {
         "id": "698",
@@ -2936,8 +2946,8 @@
         "group": "News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000944",
-        "k": "9ee07d0f828d06b64869588950b1c086",
-        "kid": "3a0c8e7a241654df842045343a2b12e4"
+        "k": "82341b5dabbaedd89898d14b24d4efea",
+        "kid": "9aa1c783d66f5f61b345c607c8888a18"
     },
     {
         "id": "902",
@@ -2946,8 +2956,8 @@
         "group": "Regional, News",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1310/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001050",
-        "k": "c56dd3ae1ee8149a88d4644b4265149d",
-        "kid": "e642fc0d5f0c58abba4e97dabb4da1bd"
+        "k": "0ebe0b66d3be5904157325188768258f",
+        "kid": "083ca29a4e4b53d3be3d8a14af688361"
     },
     {
         "id": "937",
@@ -2956,8 +2966,8 @@
         "group": "Regional",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001088",
-        "k": "c5bc86c7893bc0b6337e68b3b9c87085",
-        "kid": "e8a13549a2e857da95e3935bfb29c951"
+        "k": "56f717a2baa212c749ccd68b32f89e03",
+        "kid": "c0669f98ac385fdba82351cb0a3f23d8"
     },
     {
         "id": "993",
@@ -2996,8 +3006,8 @@
         "group": "Regional, News",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1943/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001305",
-        "k": "c46d0340bcc8258e45cbd2d930bee961",
-        "kid": "166d7d7279ee50a48deb1cb9469a0d4b"
+        "k": "ae540f16bbddcc8c02cbc5e724983672",
+        "kid": "3cafd95aeafc545292782734d1f062d7"
     },
     {
         "id": "1315",
@@ -3006,8 +3016,8 @@
         "group": "News",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_2084/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001453",
-        "k": "19f3f3e53e67571c8a520daaf58ccaca",
-        "kid": "c4cb0a8bd8dd5179b42cf8156c67ff2f"
+        "k": "552b6509d7fd8f7f519d73a95a7531eb",
+        "kid": "ee12501e199d50db8535489672c8027c"
     },
     {
         "id": "1353",
@@ -3026,8 +3036,8 @@
         "group": "News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_511/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000347",
-        "k": "b494adb35348976c093d37f39ec38199",
-        "kid": "f82b30942a01591ca371cbad6a8290da"
+        "k": "2c78786f18c1853c67bcbb3378ac94c9",
+        "kid": "2799dcbc4e4e582da332fff98dc1d007"
     },
     {
         "id": "205",
@@ -3046,8 +3056,8 @@
         "group": "News",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_831/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000610",
-        "k": "1e65bfe41721c18549411d1fd28e54b2",
-        "kid": "6954320b14705cd3bc5f187769f29f40"
+        "k": "44a5b28011e2a508dc10f3aacdb895a2",
+        "kid": "e3c442dfcc295ba98bb5a6633539260f"
     },
     {
         "id": "650",
@@ -3096,8 +3106,8 @@
         "group": "Regional, News",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1942/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001304",
-        "k": "1aca82096ce97c48def68cbc4abc29d9",
-        "kid": "8c292e21e9745d2297465ce99ef62ce7"
+        "k": "0becbafadbb4f48cb1377dbd940beac5",
+        "kid": "c9da328ad3e85da9a6017dc3f9dfcbe2"
     },
     {
         "id": "332",
@@ -3106,8 +3116,8 @@
         "group": "News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_521/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000353",
-        "k": "64c73263c77c149d5e23dc4408a2d597",
-        "kid": "7d42b360c2f55b4d90b37160247909fd"
+        "k": "3640d8313811a8fa5c4d9b43647c0159",
+        "kid": "d6bba721cb27536aad2e7d9f7c741bc7"
     },
     {
         "id": "354",
@@ -3116,8 +3126,8 @@
         "group": "News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_540/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000368",
-        "k": "d67113c7a3cd105473eccbee410cc1a8",
-        "kid": "57377422035b5d5e93b390f114403684"
+        "k": "a839c676f1deac86edc401c9577e3d10",
+        "kid": "67a02f4ad2fc5f0d8c273d58a104c526"
     },
     {
         "id": "518",
@@ -3126,8 +3136,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_839/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000549",
-        "k": "f8a8be8a69de5ab5d09be162072a310b",
-        "kid": "a29b89f9afd156b087ce837a5a6aeb42"
+        "k": "49c46b3045b769897e4df28d32e11f6f",
+        "kid": "82ad2cf7a73f5a48aba869866afb55c2"
     },
     {
         "id": "161",
@@ -3136,8 +3146,8 @@
         "group": "Regional, Spiritual",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_354/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000179",
-        "k": "76a8df4888a88515914a0493d79e1fb3",
-        "kid": "323742d21a71526bb2c7feea65a935ac"
+        "k": "927a9dfd637a80785c266da16da1c92c",
+        "kid": "912148d0e59b5cf782062714522f3478"
     },
     {
         "id": "365",
@@ -3146,8 +3156,8 @@
         "group": "Regional, News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_557/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000379",
-        "k": "ec760f21fb6edb2315848f735bf95c90",
-        "kid": "c2be0d14b73259619b0985d9a9d0f2a5"
+        "k": "3b816d2ad8d7efc89985a135d07098a4",
+        "kid": "20c57dca1adc52a1ae9515b51ddd50b7"
     },
     {
         "id": "338",
@@ -3156,8 +3166,8 @@
         "group": "News",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_524/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000356",
-        "k": "55b1b2ac94e876a8e947455ab3815597",
-        "kid": "862f338aee9f51aaa40ba629dd98f24f"
+        "k": "2fdda7b4838603736df6b557fb75af56",
+        "kid": "617c4a09ca945fbfb27e0aa4dd223933"
     },
     {
         "id": "308",
@@ -3176,8 +3186,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_230/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000144",
-        "k": "90d1fd0a899b14db10c1b874782432dd",
-        "kid": "cf092f7cd96b57049d55d368a7ef03ed"
+        "k": "8d153592f566ed37e9a14eab04cabe21",
+        "kid": "4551a0a436ea5bd6a36fa31e4d4b370f"
     },
     {
         "id": "501",
@@ -3186,8 +3196,8 @@
         "group": "Regional, Entertainment, HD",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_836/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000533",
-        "k": "0a2454d744279a0c5a9cf53b38b7b85e",
-        "kid": "30083666dbb45e44b029f283a7454e20"
+        "k": "dbd0384338c29278bbb280caa1a63e10",
+        "kid": "de16782c1d0d53b6bd0daec3ed2ba3d7"
     },
     {
         "id": "251",
@@ -3196,8 +3206,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_424/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000265",
-        "k": "3fe67c2c054527362c368171e3ba962b",
-        "kid": "763b49a1cdba580faa9940dec23f43b6"
+        "k": "7609227c1bce79b3208e219376b7eaa1",
+        "kid": "332a0c91289b5bff87404191922b2113"
     },
     {
         "id": "622",
@@ -3206,8 +3216,8 @@
         "group": "Movies",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_854/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000646",
-        "k": "7f39ebc4c4801621529a916fa40a01a2",
-        "kid": "73dd9a81241e5efcb0a1657d40b2c9c9"
+        "k": "d75745d628a73325a693dbb970c9613b",
+        "kid": "ca5f57f776635c0f8eec5139829f9e41"
     },
     {
         "id": "469",
@@ -3216,8 +3226,8 @@
         "group": "Regional, Entertainment, HD",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000490",
-        "k": "e48cdcf070ed0b27d42c611359f08e0d",
-        "kid": "dae7ee5c0dd25592a7dbb37d1b82d10b"
+        "k": "58a8cee8f274e1db498fe3782e012f8a",
+        "kid": "7aee82fa30b65edca4e540b7b5de2b8a"
     },
     {
         "id": "248",
@@ -3226,8 +3236,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_426/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000262",
-        "k": "b88980af742876e286bf52598b5f9240",
-        "kid": "9d20e4b6a69c50d39d4c3c18860a3e24"
+        "k": "fa18242ea657962d2bf8583335304d5e",
+        "kid": "8deba907a35955f8bdd7463d5f258fc2"
     },
     {
         "id": "658",
@@ -3236,8 +3246,8 @@
         "group": "Entertainment",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_892/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000697",
-        "k": "5de47e872920c110ec9c58d1e5bca50e",
-        "kid": "f32bf5a269ec57f1bb1b6900755b0a5a"
+        "k": "f69f493476211e97b53a42a1d59aac36",
+        "kid": "fc9e94e8b68d51e5949dbc32a20512f9"
     },
     {
         "id": "999",
@@ -3256,8 +3266,8 @@
         "group": "Regional, Movies, HD",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_841/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000550",
-        "k": "a8911be521bf0e17fd45144adc555e55",
-        "kid": "fb6bdb233ef556d28cdac85c7cd2061e"
+        "k": "4b6f7bc0771e9f451cc23ec3dddb2d97",
+        "kid": "fe1bffcf96f15051b23a9a3a5b132edb"
     },
     {
         "id": "249",
@@ -3266,8 +3276,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_425/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000263",
-        "k": "3838613e7864fa6dfdfcd6a24d739b56",
-        "kid": "cdb29b786bd7595dbc99e451ba76954e"
+        "k": "c1a88218ab30ed3a6c82aabdbe192bf0",
+        "kid": "2fb4c25725ce5557b76d7c21a71f2dce"
     },
     {
         "id": "192",
@@ -3286,8 +3296,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_991/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000886",
-        "k": "e482dc5500a6179f691ae2615c209b57",
-        "kid": "a3afe77c9fa35b61b92f4faf4615f1ff"
+        "k": "c742bda52f2a0b9f815a2806b688f001",
+        "kid": "5195b7dc5b7e51d4bc198e4712f0b511"
     },
     {
         "id": "155",
@@ -3326,8 +3336,8 @@
         "group": "Regional",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_329/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000247",
-        "k": "b1a20f25400d7a5da5e5f60b1e4c62aa",
-        "kid": "f26408c5a80a56549209dfee3fe21028"
+        "k": "1ce97c3a39ff617ce12ebcd2d02def4f",
+        "kid": "f993072f9e4b5a0f975a4d4b06bba52a"
     },
     {
         "id": "97",
@@ -3346,8 +3356,8 @@
         "group": "Regional",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1121/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000940",
-        "k": "e2f093f51afeb16e11045f49be818cd1",
-        "kid": "6f8b720e749a5386a4cef8e92d63f3d2"
+        "k": "d73d307adeb275bb0cfe8b4a51adfbd3",
+        "kid": "ee447c14ac9f5e28b67440b029c54e78"
     },
     {
         "id": "1102",
@@ -3356,8 +3366,8 @@
         "group": "Regional, News",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1915/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001266",
-        "k": "bb8852c332e8723433e1b1167f2255ad",
-        "kid": "04fa11731ed65cb5bba723eb426bf0a7"
+        "k": "6b4b733769499c9c1bf255af455ab82a",
+        "kid": "7ddf36015e1e5e1a9c11703eda9431ad"
     },
     {
         "id": "1343",
@@ -3406,8 +3416,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000025",
-        "k": "44db0ac8eb16ca00daf51447f18048ac",
-        "kid": "fc683df8feae5c8a8cb78a1accb460b8"
+        "k": "da94b0dc6afff3a78e0501594bd52517",
+        "kid": "022c0a1147d955b79ae9ea534bb43a10"
     },
     {
         "id": "522",
@@ -3416,8 +3426,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_834/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000546",
-        "k": "505f85960dad99c0e973e2a8bee23724",
-        "kid": "8deac63f8c205cc8aa4375483c57fcda"
+        "k": "a7c8e188106018c6f41bb7df3e7a1699",
+        "kid": "0cc3118e08c150a1a9e87ff9d7abafb0"
     },
     {
         "id": "468",
@@ -3426,8 +3436,8 @@
         "group": "Entertainment",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000492",
-        "k": "ab5f1fe0e49ceb8034a567441cb23e81",
-        "kid": "95d8b97e965d55778bc4deab99cb47dd"
+        "k": "bdff8b0d4bc1117d64f4596c309ffee3",
+        "kid": "6fba989a57a75b349cbd6cf4867763a7"
     },
     {
         "id": "34",
@@ -3436,8 +3446,8 @@
         "group": "Entertainment",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_285/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000033",
-        "k": "8d7eecc23b34da5bd53c00ec0b08e4d3",
-        "kid": "4d76a20252105f72babdace28e0a8217"
+        "k": "23ca0a1beeabcf0a4d8ca09e16cd0cda",
+        "kid": "ce715164624c5015a8acf50b3971a36c"
     },
     {
         "id": "995",
@@ -3446,8 +3456,8 @@
         "group": "Animation, Kids, Cartoons",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1823/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001158",
-        "k": "8921212996bb57fdad5f694d03ced6bb",
-        "kid": "16440af4f38155fcb9a8574952c98dcc"
+        "k": "e780b1b69dd0211d0088ddb5ed875903",
+        "kid": "4b7787a4f8b25e3a9bd92097b6540cc1"
     },
     {
         "id": "129",
@@ -3476,8 +3486,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_978/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000874",
-        "k": "0da83809b1129424cded2d2756d9e811",
-        "kid": "ad2de8f2cc695bd48904a1e72c8c2e03"
+        "k": "9b1ace72bbe7b6eb9bb8988487f63bc5",
+        "kid": "ea3f8fd1e6a05c39a899ce4e427c2f0b"
     },
     {
         "id": "537",
@@ -3486,8 +3496,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_583/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000565",
-        "k": "849cb3b581168cbebda11f1c32db47b5",
-        "kid": "e2114348c7b75cd08ab2a0a66a809921"
+        "k": "ad5b8189c33569674c4308e6a70e58f0",
+        "kid": "3a40fda47fd75117abb9773f03500f61"
     },
     {
         "id": "254",
@@ -3496,8 +3506,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_418/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000268",
-        "k": "08cdc859a54a333277af39f1cef38034",
-        "kid": "1e55d5408c4e5f18ba38f0d7ffb96011"
+        "k": "13e859c7bcfddb2127f96ce62c43debb",
+        "kid": "8a8e4913f0aa5ee38cda54f8f381a56c"
     },
     {
         "id": "896",
@@ -3506,8 +3516,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1305/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001045",
-        "k": "3f441a3b0cefd501079c2e59262a0d9d",
-        "kid": "ce28f5b235495062993cb916e32ef295"
+        "k": "a0475f20e133248403b6488dfc54817a",
+        "kid": "d6abd1d91f71535ab21ec20b1ca0beb3"
     },
     {
         "id": "379",
@@ -3526,8 +3536,8 @@
         "group": "Regional, Kids",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1926/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001288",
-        "k": "06957f5cfb208cf828b16c03561d51ee",
-        "kid": "029f5060b9435667bde93c9c765fe5a6"
+        "k": "4c031362897f1452b9f1f3d92e0d11d6",
+        "kid": "05883a7ad9e35221991b3ec49c0e3e0b"
     },
     {
         "id": "102",
@@ -3546,8 +3556,8 @@
         "group": "Regional, News",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_419/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000272",
-        "k": "e95e3ea767bbec6c8466b85182c5600f",
-        "kid": "bc92531ee95159508648631a5b543c60"
+        "k": "a01aaba8e1aacbba3ac2902968599bec",
+        "kid": "1731ee33a4825802b8aab8e9ae359d76"
     },
     {
         "id": "381",
@@ -3576,8 +3586,8 @@
         "group": "Regional, News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001018",
-        "k": "58d002d73d3bd79ce3c48a644eb865e4",
-        "kid": "68af321a76145a0ca41b26956989fb3d"
+        "k": "c779aec8d6ab91057724e0e5524bf0fa",
+        "kid": "56f54d620f995a858b5a29ff8e535656"
     },
     {
         "id": "890",
@@ -3636,8 +3646,8 @@
         "group": "Regional, News",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1927/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001289",
-        "k": "3231fc72f2a30efef43da2e5c96bba70",
-        "kid": "ba4a5de286d052afa189368fba333dc6"
+        "k": "516c5320c5c241f72556dc9a038a6135",
+        "kid": "afd530fbef595b3d85e2e0052df49ba6"
     },
     {
         "id": "314",
@@ -3646,8 +3656,8 @@
         "group": "Regional, News",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_503/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000328",
-        "k": "ee833f9bf7b3485c558714b25c665c20",
-        "kid": "3d7af6dbdce5526583a7ffcaf1ab6140"
+        "k": "5b7142b866934aafae723a958678b663",
+        "kid": "c3e387cd064656bb9b0a6d63a4da02cb"
     },
     {
         "id": "215",
@@ -3666,8 +3676,8 @@
         "group": "Regional, Entertainment, HD",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000666",
-        "k": "b9cad8955eecb012a2ae356eb70221f6",
-        "kid": "521ce6198b815a50b344a216d14b6992"
+        "k": "a230c263721033fab3b26d34e75350d1",
+        "kid": "0154f886db2f549d848f8cb0c0bea210"
     },
     {
         "id": "250",
@@ -3676,8 +3686,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000264",
-        "k": "a870b6b6a17a65984fb39bb1245429c2",
-        "kid": "2b05c937ead65b729e37eb3f0558f853"
+        "k": "db1fa9cbe07b5e21ad667d4f1fda0246",
+        "kid": "5f344869e02e5451ad17ffb4bf91e562"
     },
     {
         "id": "355",
@@ -3686,8 +3696,8 @@
         "group": "Regional, Entertainment, HD",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_553/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000376",
-        "k": "57b8f465e5c949128653f2aff6055373",
-        "kid": "0b99de67f71c53519cd0bb0cf9e3a310"
+        "k": "cc817e8e0193a3e32051de0731df358f",
+        "kid": "4c8e764a6cc755209eb46e6ea14f5d25"
     },
     {
         "id": "516",
@@ -3696,8 +3706,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000553",
-        "k": "c18dfc4a589376dfdcee72435f99644e",
-        "kid": "6581b342f7fa5fe4acac57039f53f254"
+        "k": "c0307b28469418e8c080e613d930ba3b",
+        "kid": "be980832cbe650049dd711cdbdd4aa7e"
     },
     {
         "id": "956",
@@ -3726,8 +3736,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_172/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000158",
-        "k": "014f0e4c067e32968f103583f1b5c6aa",
-        "kid": "7795a3179210533b8eaef551f75ed8b9"
+        "k": "e7b5280ac26bd5d21a64562de73a9d3b",
+        "kid": "945b440257cf5a32875e299449f6a0de"
     },
     {
         "id": "361",
@@ -3736,8 +3746,8 @@
         "group": "Regional",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000373",
-        "k": "bea85ba029100c993a443f18adf10a2a",
-        "kid": "4cbbec0bbec95a17ac4ce60e8c53477b"
+        "k": "f9b3c90e1463e0b72f84fac474a1522f",
+        "kid": "1029e6931a5f5537aa40de3a03de8141"
     },
     {
         "id": "352",
@@ -3746,8 +3756,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_539/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000366",
-        "k": "1311b9ac9d9d4ccfff6be2f3e1e9e4bf",
-        "kid": "bc9d75059db65457ac8c245ae9e60b5c"
+        "k": "d4ccd0dad1c109fadc17bd314b91fff0",
+        "kid": "125ecbfbec6a5bb8b7e7a94cee39fdb6"
     },
     {
         "id": "996",
@@ -3756,8 +3766,8 @@
         "group": "Animation, Kids, Cartoons",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1822/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001157",
-        "k": "6da442432385d2826b92a1e6eb846acb",
-        "kid": "3982ebe36ae451a1a2dbdd7c227d9a20"
+        "k": "6f1050e50f24a90a283748fbbc425e53",
+        "kid": "85ec4448eb9c56c6bf833f21d684445f"
     },
     {
         "id": "590",
@@ -3796,8 +3806,8 @@
         "group": "Regional, Movies, HD",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_550/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000374",
-        "k": "875f61f3df271d0129c1b4916cc11068",
-        "kid": "eba2e41ceaa15592adf80966a5ac4ddc"
+        "k": "ad0d36e50b1d5e2e7e63480926dc7a82",
+        "kid": "d1d856aa0eb951bcafa7e96c1ed4db97"
     },
     {
         "id": "387",
@@ -3806,8 +3816,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000408",
-        "k": "ab1411db6f9e1eaa9127a41dba003f7c",
-        "kid": "fa88b0ec4edf551abe02da4f2ad6e6db"
+        "k": "8d676e24ecc2018e3d0d52aa6f08bfba",
+        "kid": "7020a66f2f2f5f58b5cd91f6e8eb1611"
     },
     {
         "id": "957",
@@ -3826,8 +3836,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000407",
-        "k": "623ac922749ac12f788efd2144d60114",
-        "kid": "0d25818862705978a922dcaf7176d60a"
+        "k": "d486210f3e15a94607102d07a9639e64",
+        "kid": "30c3033bc6775d71ac827cc650382d72"
     },
     {
         "id": "954",
@@ -3856,8 +3866,8 @@
         "group": "Regional, Movies, HD",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000665",
-        "k": "d746c58d2e1a7579aba9d7de19b0237e",
-        "kid": "c2feb9f0c7e555e9851ca0c01d97a262"
+        "k": "3c3f5b6f7f79f995cc8176017533fa4d",
+        "kid": "badfe6c42fca5f2682b5baf2365f3f62"
     },
     {
         "id": "252",
@@ -3866,8 +3876,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000266",
-        "k": "9d4440693646be27aba622e99aab1ae9",
-        "kid": "eb5a80595c415f9296c09783dfde3070"
+        "k": "413326f7602ba76f6b7ae1a72dcaf0b4",
+        "kid": "5eac939adbe55a1180671b49343b8d4c"
     },
     {
         "id": "128",
@@ -3876,8 +3886,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_227/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000136",
-        "k": "a8fd651d509524aa321f5e8c3f189f27",
-        "kid": "265408fd2b5e5a5d91f1c4e2c54e4e2c"
+        "k": "67d77782841c4670e1c9cde08be6c63e",
+        "kid": "255f69640565590fa6f7e994c0891c85"
     },
     {
         "id": "1073",
@@ -3886,8 +3896,8 @@
         "group": "Regional",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1887/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001237",
-        "k": "f35c21a3501f5b2de18035b3660c9432",
-        "kid": "ca48f746c079543997fa7dbc8d869f40"
+        "k": "004b8324abe7aeadac9a55da904d4bba",
+        "kid": "e31871e402805a8b91c9a363ea08d0d9"
     },
     {
         "id": "268",
@@ -3896,8 +3906,8 @@
         "group": "Lifestyle",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_538/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000283",
-        "k": "26cb5247be8cdbd8f12a0401e49e15f5",
-        "kid": "ad819f09bb045bfabd853a6992abae73"
+        "k": "041f13b9284ea89bdede249b230bc458",
+        "kid": "bfea3a6e06fc5dc79df3c2ae314d3cbd"
     },
     {
         "id": "358",
@@ -3926,8 +3936,8 @@
         "group": "Regional, News",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_226/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000160",
-        "k": "451cdfdd7b0e59224e4a72ddb05ab542",
-        "kid": "7c747f2ba90d51be9be349bc6d4288ec"
+        "k": "a95053e10d3342d89f5bdb70868b6639",
+        "kid": "80df38e5bf015e9da22d59a19a176853"
     },
     {
         "id": "320",
@@ -3996,8 +4006,8 @@
         "group": "News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_296/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000080",
-        "k": "1d6b9821c4a808f1d1ca77304ddac2ed",
-        "kid": "881a7561f573539f9e463332c00009e2"
+        "k": "21c0bb83947683855a661070e21dcb2d",
+        "kid": "e005090e3a675feb80a72fcefa775d87"
     },
     {
         "id": "349",
@@ -4026,8 +4036,8 @@
         "group": "Regional, News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000280",
-        "k": "2842e1eb49b01ac7ed49d8563a2a385a",
-        "kid": "3ab6bebf9eac586e9adec5c5d1502ea9"
+        "k": "6f4598dab2a3b80190fa75a7e71c7462",
+        "kid": "e01bd4912337507caa69356914f100b5"
     },
     {
         "id": "1027",
@@ -4036,8 +4046,8 @@
         "group": "Regional, News",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1849/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001191",
-        "k": "b365fd6e131999c6ae76fdcfb9f58e66",
-        "kid": "33b8f421976a5bdea9f4e51a9c39f7ce"
+        "k": "39c2ae62e6fc79b6f0aec75f5476b3d7",
+        "kid": "5ca15c02b1f95586a057cd92f25ecbb2"
     },
     {
         "id": "774",
@@ -4046,8 +4056,8 @@
         "group": "Regional, News",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_970/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000858",
-        "k": "e9534065990615162727ba98a464b5ed",
-        "kid": "c8f253e9ea545f7893fae9353769a54c"
+        "k": "9a3ab7c91b8cf452934a31cb915d726a",
+        "kid": "cdfe69dd54e55885adf6fc113e12161b"
     },
     {
         "id": "1099",
@@ -4086,8 +4096,8 @@
         "group": "News",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1923/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001284",
-        "k": "93d3dd600e14a32c519b8f782d9fdc2f",
-        "kid": "48ffa4e06a40575a8dc0b8f2d7a4e638"
+        "k": "d217cc22c1c44d8071009814ec547d74",
+        "kid": "2d363a32c0a0571c8a82dcb87e32b75a"
     },
     {
         "id": "1194",
@@ -4106,8 +4116,8 @@
         "group": "Regional, News",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_2065/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001428",
-        "k": "828ebc6a2082051f2894d0ad8bc24003",
-        "kid": "42678c680116522eb84e7b2a4c6fc247"
+        "k": "7fcdfc4b629abffd18547bb07edc6d4e",
+        "kid": "4a8cece052175f9993fb42495da63ef3"
     },
     {
         "id": "337",
@@ -4116,8 +4126,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_523/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000355",
-        "k": "cce8224317948449de17a23e542b4184",
-        "kid": "dca7414183aa594390c182e163c6f766"
+        "k": "39f704e58e57665bce77644e7b72efed",
+        "kid": "9d16c2a277c552849607f1c77d769ff0"
     },
     {
         "id": "548",
@@ -4126,8 +4136,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_526/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000358",
-        "k": "24ade895fc9ec5c82230e9866b55378b",
-        "kid": "839431dc01b15a0387c0652f8cca2493"
+        "k": "95b16c618dd1960d11ce00d07d6941f3",
+        "kid": "a2b55e6ab3a1510fb24314689e10ccb5"
     },
     {
         "id": "429",
@@ -4136,8 +4146,8 @@
         "group": "Regional, Music",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_687/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000453",
-        "k": "6de8fc41704e00f400148722772cad43",
-        "kid": "f41b5a975b20579c91c17ece56fa5583"
+        "k": "0d82f4269cf253f135e1fa7085bab092",
+        "kid": "d270299c49255aa4ae9885b87f1480bc"
     },
     {
         "id": "290",
@@ -4156,8 +4166,8 @@
         "group": "Devotional, Regional, Spiritual",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_716/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000471",
-        "k": "20b995c26afcd1e819603fceb79fa811",
-        "kid": "7b826a2622b5524bb405ad8f5699138b"
+        "k": "b7f81c4b852beed3a690009181d79074",
+        "kid": "45782d649a975416ab5d956c09701b53"
     },
     {
         "id": "285",
@@ -4166,8 +4176,8 @@
         "group": "Devotional, Regional, Spiritual",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000298",
-        "k": "9e0ae8024a4f0499a7882228dce0586e",
-        "kid": "a11f8a48f6cc5d6cbf9590aa86af5e98"
+        "k": "50cddac8554deb7082e0139f3ecbe55d",
+        "kid": "13e95115d5f05e2289f61698893e6711"
     },
     {
         "id": "351",
@@ -4176,8 +4186,8 @@
         "group": "Devotional, Regional, Spiritual",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_533/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000364",
-        "k": "8a11916d7596b205d353e0e35189cee2",
-        "kid": "86087b8e87f35096a151c97dbbea492c"
+        "k": "d3e228c500a6f06bea9e72d3ca9c04f5",
+        "kid": "f7fcc45cee5352e0a90a7cbe2d516062"
     },
     {
         "id": "630",
@@ -4196,8 +4206,8 @@
         "group": "Regional, Entertainment, HD",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000542",
-        "k": "662975d3422aa64cd77244630e22c8ec",
-        "kid": "bbc665be2e215989a2fdecbefcccaa96"
+        "k": "3da71cd06ca4e9c3331e2301585f0402",
+        "kid": "e2d1ce3b023f55459fb2471600e0fa6f"
     },
     {
         "id": "1260",
@@ -4206,8 +4216,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_2047/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001411",
-        "k": "af4d31fb6d6cd13b74bbb62a2c54088b",
-        "kid": "d968fad8712152e2a75228ba4fd57093"
+        "k": "f0f9609c30152383ebc53d06c821c703",
+        "kid": "cee6fd98cffb57b7a7329f5e387b6fc5"
     },
     {
         "id": "474",
@@ -4216,8 +4226,8 @@
         "group": "Regional, Lifestyle",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000501",
-        "k": "979b2b2a56566277e14913b7e4774f0a",
-        "kid": "540bf7b31b6e53989d3b1bf4d1a77644"
+        "k": "0f9c7d1e71c8ae7fd45faf919c99578a",
+        "kid": "43a104837d4e528fad14308be5248ac0"
     },
     {
         "id": "496",
@@ -4226,8 +4236,8 @@
         "group": "Regional, Entertainment, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000526",
-        "k": "34176dea27c9102802ae9db8a99be492",
-        "kid": "f0b2dd80a6185b91a864c8dda9f8c478"
+        "k": "c015e0dab92dee4885ee91ca09eb6c57",
+        "kid": "6c3ccdcc29c552c6a00e5a292e79f19a"
     },
     {
         "id": "1167",
@@ -4246,8 +4256,8 @@
         "group": "Regional, Entertainment, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000633",
-        "k": "9f50f157b13e486704fdb16ed831ecd9",
-        "kid": "064ffa7f191d5da5ad341b4de8340be7"
+        "k": "ad12afaf1783d200275a92dbd0bacbda",
+        "kid": "2f38abc2716a5377ac5f384339d25ebf"
     },
     {
         "id": "257",
@@ -4256,8 +4266,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000271",
-        "k": "ef80568bcdd9dfaf9b06bd79d2761b75",
-        "kid": "2a103948367158d28c535682ce52f106"
+        "k": "ab6e2432e48ecc9a5e908fa6e9836ad1",
+        "kid": "78eb5eb62bf35c67a93a9d4d32a2eda6"
     },
     {
         "id": "674",
@@ -4266,8 +4276,8 @@
         "group": "Regional, Entertainment, HD",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000713",
-        "k": "e4806557031bf35d096ec533ab1c101a",
-        "kid": "d57d6e5ab4f855489ddc2a97ed2de026"
+        "k": "a5abffba14683a586d80111432207a94",
+        "kid": "55d73803f288556f939cdf1f048aae25"
     },
     {
         "id": "418",
@@ -4286,8 +4296,8 @@
         "group": "Regional, Entertainment, HD",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_947/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000750",
-        "k": "f7298eff202285735017eb320b033180",
-        "kid": "4a21f073a5e157eb818ee59ef144db61"
+        "k": "93f6ca86ad2076b99fa96d1cd63391b5",
+        "kid": "0ec32d2a0c98504b864b2874f250635f"
     },
     {
         "id": "200",
@@ -4406,8 +4416,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_815/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000699",
-        "k": "46a6242048bc51fb94b1b24d77984e45",
-        "kid": "0bf8121388035e6899fc5cf4ff8a0bfb"
+        "k": "ee409c275694b8af2cf5ab753182d47e",
+        "kid": "0ed92cd102c85493a44bd403d633f579"
     },
     {
         "id": "1322",
@@ -4426,8 +4436,8 @@
         "group": "Regional, Movies, HD",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000400",
-        "k": "8410fcda3a3de0662b492e0d32c1e43a",
-        "kid": "0d9158cd53255791aa65b582a1074d78"
+        "k": "6dabeb4a476737d04f4bdaf33b171a8a",
+        "kid": "61583408097a50edbfbdb0d52ceab3fd"
     },
     {
         "id": "201",
@@ -4436,8 +4446,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_345/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000213",
-        "k": "73e4210024a3a8f612a4c96b880ac61f",
-        "kid": "5bbff4efda815c77b2fae6343ff52df7"
+        "k": "13b351a42e47035193af4a95de6fc50d",
+        "kid": "e4134d7a2be35bf48b035be66624095e"
     },
     {
         "id": "1182",
@@ -4446,8 +4456,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001322",
-        "k": "814070128bc51683cdd6c1cffc8222cb",
-        "kid": "3c990098c7c254ca81be40d136451279"
+        "k": "f02aa5ef5f9152f290f8559ee54fa2a4",
+        "kid": "e2821de5e91e52c190feca1fe2014aa4"
     },
     {
         "id": "797",
@@ -4456,8 +4466,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000884",
-        "k": "68b7398eb7cf640715962f15e2786199",
-        "kid": "441f1cb96eac5f81b9ac867013661172"
+        "k": "d562df9ba50d177e361f9da59cba436c",
+        "kid": "e1d772539a3f5d2bb0d0aa8ffacd31ef"
     },
     {
         "id": "444",
@@ -4526,8 +4536,8 @@
         "group": "Regional, News",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_349/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000042",
-        "k": "87e750fb624ae5316c7bcaf3b8cbe678",
-        "kid": "bc9129730f055ea293cdc6a0bebbd4ed"
+        "k": "c3e4a9c331360000ee2661eb24eb69cb",
+        "kid": "6e83a792ae9951e390554001f65d0e4d"
     },
     {
         "id": "525",
@@ -4536,8 +4546,8 @@
         "group": "Regional, News",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_372/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000554",
-        "k": "f18ba05959903d3e0b314e5480f6f1b4",
-        "kid": "19083fe9b6a75d8ab15e6d9585ec1094"
+        "k": "61f4ee70374586f4ee9cb6b85df4cadc",
+        "kid": "d64c27a4a35d58eebe2326b3e0a27719"
     },
     {
         "id": "455",
@@ -4606,8 +4616,8 @@
         "group": "Regional, Music",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_684/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000450",
-        "k": "6dece07079bf4a7d4ed80429dd1f72d3",
-        "kid": "0beb1c12f8ee5b7da9578288f0b33f6b"
+        "k": "015d6254a563bc448985382ac6d235e4",
+        "kid": "99bb9e75681c5b8984a05f61f70715e0"
     },
     {
         "id": "647",
@@ -4636,8 +4646,8 @@
         "group": "Regional, Music",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_624/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000417",
-        "k": "e257f6c1a577714472c28383e12d5f25",
-        "kid": "1f195b86e1a057f6b182bb2e8d84c04d"
+        "k": "f2948e4c8fefd8389d8a532e0e1ab6e1",
+        "kid": "983de07f1c89593885d4bb46a3bf84bc"
     },
     {
         "id": "434",
@@ -4666,8 +4676,8 @@
         "group": "Devotional, Regional, Spiritual",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000300",
-        "k": "286ffea0e8745678e03389b33c9277a4",
-        "kid": "1b63de122d175b8892edaa1bb42a598a"
+        "k": "25f56d555ee99d0079da7452f072c57e",
+        "kid": "4c086e881c65510ab2dfd099bf62a00f"
     },
     {
         "id": "408",
@@ -4676,8 +4686,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_651/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000430",
-        "k": "1c20aeebe56a652b0b8dffc3a9f07e3d",
-        "kid": "6a1a137ba4dd535e8671b41b7c8ade7c"
+        "k": "27692076c8ad5a4d787ee5b549cc28c8",
+        "kid": "537888310e8d526dbfedcaae74e7998a"
     },
     {
         "id": "334",
@@ -4686,8 +4696,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_519/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000351",
-        "k": "25c3c394bd61e47d1202a3f40bc1904e",
-        "kid": "c9076b0fa25455f088d4ce8db8ab12ad"
+        "k": "0db6bddfc7d8d096f7ef434ddcbfd5f6",
+        "kid": "2e6f828c2b035ee6852383b1f49aa200"
     },
     {
         "id": "490",
@@ -4726,8 +4736,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_157/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000109",
-        "k": "6278d565998f5015de6733e6c2c6fb42",
-        "kid": "fe5f51931fe55ada9af8a5dcfb1ee077"
+        "k": "bf0256aba3775e975f53a673b816e02e",
+        "kid": "acd14a57fd495970aadbfcd67d775ab0"
     },
     {
         "id": "467",
@@ -4736,8 +4746,8 @@
         "group": "Regional, Entertainment, HD",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000494",
-        "k": "e757720634ae5f1654b6c4ead07123ca",
-        "kid": "6de70d23e39d5fe6a5c8a4af3f101ec5"
+        "k": "35dd77c3c269a9f019a66c23fae3e165",
+        "kid": "ae7ee6abc0cd567bb5915d5043a02c1a"
     },
     {
         "id": "675",
@@ -4746,8 +4756,8 @@
         "group": "Regional, Entertainment, HD",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_917/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000714",
-        "k": "6a6f1d1eafba052b57a5e0eba489a0bf",
-        "kid": "fe4f6a35ac245d45a2ccaffd8b28a858"
+        "k": "0d2b5b851073c94f1d12a11cebde69cb",
+        "kid": "8541c0c113335dc29a81c1f2a2a04d0b"
     },
     {
         "id": "256",
@@ -4766,8 +4776,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_492/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000562",
-        "k": "46a5d1ad39583f735c52c04293af3c9a",
-        "kid": "e8f11d983a475ad1a1ddb0fb43018918"
+        "k": "7a37e77855e35fbe1643591d3c13b969",
+        "kid": "f319f7b5c80a597199d163ed73d57bd3"
     },
     {
         "id": "372",
@@ -4776,8 +4786,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000392",
-        "k": "56f3f3fb2d32b280e8f88e8c2fb60af5",
-        "kid": "fcad3d41bf145977a8b5dea3a5f7a08c"
+        "k": "356b5cb3cee7499acee3d21443bb7b8e",
+        "kid": "1974199decd753bc82213f87c7acdf7a"
     },
     {
         "id": "566",
@@ -4806,8 +4816,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_228/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000243",
-        "k": "0192370cdd1035cae011ef9d3c508af2",
-        "kid": "8f171da59dda52e6b7f108d8e5e7360f"
+        "k": "8641790051d6d4893dcfa932bfceac70",
+        "kid": "82a3c979dad65264817956e074df9895"
     },
     {
         "id": "540",
@@ -4816,8 +4826,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_767/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000570",
-        "k": "a9fe46227e25cb937446978512a1e802",
-        "kid": "5873ee3714ae5dda8c8e5729b7406937"
+        "k": "14e9fc363b0e67ba47a46f98e3600e53",
+        "kid": "4210edd83f2d58d696c1d8f51803d3e8"
     },
     {
         "id": "667",
@@ -4826,8 +4836,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_900/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000706",
-        "k": "ccca6372a8625bb97be260c63dbd4d15",
-        "kid": "b7bab2aee77d5f449d6656bd651a78ac"
+        "k": "b77377019cecc9e16728d92a5ff1314c",
+        "kid": "8195bc3d4c7d546f97f2e91164ee6f17"
     },
     {
         "id": "1181",
@@ -4836,8 +4846,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1960/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001321",
-        "k": "f29a629093bb2e2868bdcdf604f010e0",
-        "kid": "07a2fad2867f58fd8e9bc8a0b389ffd3"
+        "k": "73c888281914d554cf7bc7d996db1a91",
+        "kid": "ebd6e2d60cf35008a3ef1fed593d5ee5"
     },
     {
         "id": "810",
@@ -4846,8 +4856,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_1000/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000901",
-        "k": "83b759052b387f593bdc1bf76e055f00",
-        "kid": "ac2fabff8cf356f0916d18e1bfa4c364"
+        "k": "50635ba771c6a417845a7ce1d4539410",
+        "kid": "585593d1ff665013805e9f76b0924ed9"
     },
     {
         "id": "661",
@@ -4856,8 +4866,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_894/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000700",
-        "k": "24732bb07fd061d0276c72e4b798b42d",
-        "kid": "782e7ddccd535adaa2f4857b51eac4eb"
+        "k": "deedff626b87e3a1b9315ea2c2c166a0",
+        "kid": "bd66517131c95673a3af0a46b7378086"
     },
     {
         "id": "152",
@@ -4936,8 +4946,8 @@
         "group": "Regional, News",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000934",
-        "k": "18811a9b7c5c9dae24e29ebae605c488",
-        "kid": "67efb213d2d85e27b44794b1db10ee15"
+        "k": "cb202c558efa0a0d5844b9d204663558",
+        "kid": "4c7a82502b1f52b4af0ba4062e564a2c"
     },
     {
         "id": "913",
@@ -4946,8 +4956,8 @@
         "group": "News",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1320/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001064",
-        "k": "856a7b656219f6b28d4f1e9778a0b01e",
-        "kid": "2433bba7bed654a9a88a19851d55c564"
+        "k": "ff2dd0771cc88e7f096b88f8eab1878e",
+        "kid": "ab30d3cc7fea5a50a77898f7da960da5"
     },
     {
         "id": "1077",
@@ -4966,8 +4976,8 @@
         "group": "Regional, News",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_2064/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001427",
-        "k": "da67d2f4434f1bded9b75b2092cee301",
-        "kid": "b972128fe97750d29d18f849889d9297"
+        "k": "497e9266c30e3ca68268faafef096bda",
+        "kid": "9c99468c06865f7b8036052eb2624057"
     },
     {
         "id": "321",
@@ -4976,8 +4986,8 @@
         "group": "Regional, News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_506/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000338",
-        "k": "e2498809e8b30ab1f47e28a49d4818c8",
-        "kid": "3791ccb5effe525cab866c5bbcf47fa8"
+        "k": "8b85890e089ea9b602e1527582ee5b30",
+        "kid": "5e4a4286010e5f22a8d2277b0e9a8856"
     },
     {
         "id": "427",
@@ -5016,8 +5026,8 @@
         "group": "Regional, Lifestyle",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000698",
-        "k": "4352ad40f4ebbf404d311eba31f1c957",
-        "kid": "098d31194ed25280856daec7781b7c5e"
+        "k": "79e6bd4b7b521942c1a0d373c7309c34",
+        "kid": "6b6ef7b2b4825b54a9c28cfc3cd82889"
     },
     {
         "id": "971",
@@ -5046,8 +5056,8 @@
         "group": "Regional, Movies, Specials",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_967/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000853",
-        "k": "39e2ce2a81e8ae5a6abdb6a2fabeb010",
-        "kid": "1206ba9c037b5290bf72fd7a02c90dbb"
+        "k": "a038e8ded460eea05a4c7fa812de540a",
+        "kid": "6221a5f09dee5ceabb41d0beb944f18d"
     },
     {
         "id": "692",
@@ -5136,8 +5146,8 @@
         "group": "Regional, News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_833/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000531",
-        "k": "7b36081d682f674767c15788601d18ba",
-        "kid": "031d3a9004ee5cd2bfd0430ed76bea5b"
+        "k": "a6c2d05741ba37786e4c92aa03b5b439",
+        "kid": "2242db78f7b65050b52df50e0b1b374b"
     },
     {
         "id": "654",
@@ -5156,8 +5166,8 @@
         "group": "Regional, News",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1803/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001131",
-        "k": "df7f9eafa0048f66af3c3d91a7f03a2f",
-        "kid": "324912da87fb5bd3a86bb24ca1c4158d"
+        "k": "8f85137b886ee0fd964a48427404ed07",
+        "kid": "053f4038660c5c878d5a17f25c35b3e0"
     },
     {
         "id": "1286",
@@ -5176,8 +5186,8 @@
         "group": "Regional, News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_507/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000341",
-        "k": "f08071ec5a5e0c01639fb88d7897d217",
-        "kid": "2d648e744020502c9218f672bc229a74"
+        "k": "38edf4a12df4b206bbaf0075e6c70ab3",
+        "kid": "de9fd363add250a4aff766198c62bc4e"
     },
     {
         "id": "1097",
@@ -5236,8 +5246,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_709/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000621",
-        "k": "ac70e136e95962f2b0805358f8391942",
-        "kid": "c868cd800a3355e7afabc1c8ba1c9f9a"
+        "k": "0173673dd1736d7856fd9d20579e1bb3",
+        "kid": "25a8e42e0cff5216af1398c76e856b7c"
     },
     {
         "id": "978",
@@ -5246,8 +5256,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1808/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001139",
-        "k": "cdc36a1233f9f7a7f3a598f30c2a71bf",
-        "kid": "b5abad5f54d8596d9ed5199734dc777d"
+        "k": "ef546fb9fdaa78563dfb3eda4fb3f6df",
+        "kid": "ff869564965850d9a0c1fd117a14e835"
     },
     {
         "id": "421",
@@ -5266,8 +5276,8 @@
         "group": "Entertainment",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1952/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001315",
-        "k": "1635999ae5000cd1d2bcf8e209bf2f89",
-        "kid": "b2025ade0c7a57a0bf7e80f63bb6e332"
+        "k": "36bfe686570e6a2cc726e5c5fbf06d14",
+        "kid": "635c81c9f6355669ae5f60d18d3e2a03"
     },
     {
         "id": "376",
@@ -5306,8 +5316,8 @@
         "group": "News",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_676/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000467",
-        "k": "801d5644b5eb2604c90fee3f96b537be",
-        "kid": "8c28ae9949f55b8dad680cb764236fa0"
+        "k": "2f5cd5a16d9b6390a9895ded6b4f022e",
+        "kid": "73fbc2e387c3561da86500d4e55191a6"
     },
     {
         "id": "805",
@@ -5316,8 +5326,8 @@
         "group": "Regional, News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_993/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000893",
-        "k": "dbe4393db614d74af8be67e83b2e42d1",
-        "kid": "55fab3a40a2356a7ba71ae85014a4aa9"
+        "k": "f3e0d58614c585714b032c044fdf5185",
+        "kid": "160e1d68f9d95fb89d6380c3dba7ffca"
     },
     {
         "id": "907",
@@ -5326,8 +5336,8 @@
         "group": "Regional, News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001058",
-        "k": "2c4fa1d6138474c36aef68fa9923ef47",
-        "kid": "7c24b3d0a48c57b8a8670949df20d1c9"
+        "k": "98123a560722c8371dc6a191103d285e",
+        "kid": "8612d1ca98c75229b3c56854f59b56ae"
     },
     {
         "id": "333",
@@ -5336,8 +5346,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_518/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000350",
-        "k": "13fcb8719969c25b027ea5f713d947bb",
-        "kid": "fb64fa50d51c586b9f321fd681138837"
+        "k": "35afcd4299284d3907a1c0ebcab39991",
+        "kid": "1b525fa0512952c886f28f55a89ba9b0"
     },
     {
         "id": "1169",
@@ -5346,8 +5356,8 @@
         "group": "Entertainment",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001313",
-        "k": "45c561637b63e3ad462828d3f0447515",
-        "kid": "142d0f8ce218527ebe1c452e68e01a23"
+        "k": "de97cda5c5e8fbb6e0534ed0e13ec8f5",
+        "kid": "2477cbf3505e5112b142dfe0093e5615"
     },
     {
         "id": "230",
@@ -5356,8 +5366,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000244",
-        "k": "5d0f2e408b134390342d289ee5f6e507",
-        "kid": "bf225aa6d0e25f5689785b2f688302b4"
+        "k": "f01827e626600c46a2f54aa524922b88",
+        "kid": "939a51283fb65fe386406a9593669e3d"
     },
     {
         "id": "292",
@@ -5366,8 +5376,8 @@
         "group": "Regional, Entertainment, HD",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000306",
-        "k": "e0deaf0dfcb4974981d93d46d4dddf9e",
-        "kid": "71a16b666ecb5235b948753d22753dac"
+        "k": "dec87f813601c96234ff66637d0df2ba",
+        "kid": "bea2c5d8039956d3be499ed66e6728c1"
     },
     {
         "id": "294",
@@ -5376,8 +5386,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000308",
-        "k": "4e4d7cd5702f041117f047c8239acf18",
-        "kid": "ee373c7dd3e253d282e159fd7ad4157d"
+        "k": "edd6e93065037bd1742dfa6327361518",
+        "kid": "56723eb120d2534db70017c2196d13f7"
     },
     {
         "id": "953",
@@ -5396,8 +5406,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000737",
-        "k": "292e4a2e4f2d65e0534b8d6f6e3dd830",
-        "kid": "d316de8ed40459dea1bf922f14458ce2"
+        "k": "760a28ce77e89dd7e7b8f82f56ce7222",
+        "kid": "56f6dad77b6455c98dc4de44ef0bf515"
     },
     {
         "id": "684",
@@ -5406,8 +5416,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_926/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000727",
-        "k": "f05176ca2fde09c1c9b49fba242dda35",
-        "kid": "5cf0e7a96cf85dbb8d9f7f298c33c8f7"
+        "k": "a29341e93af7b3e79bb7c50f494a4fa9",
+        "kid": "2853a7e363ee50d496ece397b7f4d0de"
     },
     {
         "id": "10",
@@ -5436,8 +5446,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000030",
-        "k": "5ba684a6106cac63f6bd0ebe7eb7c237",
-        "kid": "9c537a14ff865dd48e8c809a337d89fe"
+        "k": "12af19d281faca9559fe9ddd9ec097a9",
+        "kid": "734921f5aa055ab782f49ba2187eb5ba"
     },
     {
         "id": "25",
@@ -5476,8 +5486,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000245",
-        "k": "86384c94b8172d0edd355e2006181aca",
-        "kid": "2560883ce4d35901964662bc5cbb4ed9"
+        "k": "01bce710fda6752e192f529bdb395f33",
+        "kid": "2b682ccf23805227bdf109c1e213649a"
     },
     {
         "id": "293",
@@ -5486,8 +5496,8 @@
         "group": "Regional, Movies",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000307",
-        "k": "752968f9e5914f6b49fa7ad25126ca66",
-        "kid": "3336cda6d2985adf8949cc69f6205df0"
+        "k": "a8a30cb554f632eb901de9c5d1cb5fe2",
+        "kid": "f669dd7dd6705123b389419e92539222"
     },
     {
         "id": "933",
@@ -5516,8 +5526,8 @@
         "group": "News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000561",
-        "k": "f657bbd5a20bcb6d1a935581c0ceb6aa",
-        "kid": "9074268b1cf5576587a012e0df1d695f"
+        "k": "df590c2e58f44694ff9d4f368e1a7b35",
+        "kid": "6dd8f0e5fd4b511e81b449504f75bab0"
     },
     {
         "id": "66",
@@ -5566,8 +5576,8 @@
         "group": "Regional, News",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_581/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000390",
-        "k": "f73862d70e1a391c77756feefafaf8c5",
-        "kid": "73de3ebf04f053f48c5355c991a599ed"
+        "k": "822f846f996b63af4aaecb3b5038ef1a",
+        "kid": "72241fa2d9d357ebba0454aee4007a31"
     },
     {
         "id": "576",
@@ -5586,8 +5596,8 @@
         "group": "Entertainment",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000284",
-        "k": "4e6cebbf83adcbaa00574a7cc80e09de",
-        "kid": "f41e83f20a1d5813852dad7a6057a9a9"
+        "k": "a73013d6a1aa0e1b38c4ad0ef81d4287",
+        "kid": "7a142ceaed00504a84cd606ad34fefe0"
     },
     {
         "id": "378",
@@ -5596,8 +5606,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_595/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000398",
-        "k": "419d0fd1c37db527e70ca53afa6dda3f",
-        "kid": "b3f1c8cb149c5f2488b27bb6fefb5c7b"
+        "k": "9e205d22e6f83ee3a28f6d9bb099d795",
+        "kid": "82e041449f225ad19e216fc831669f97"
     },
     {
         "id": "428",
@@ -5616,8 +5626,8 @@
         "group": "Regional, News",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000885",
-        "k": "a94520317723960ee68d2b3266016aea",
-        "kid": "b217fafac1e6521d80f0d9179183e4c6"
+        "k": "c924ff2ded527072356e318205b28119",
+        "kid": "6ed7905594e851fca1568ed710415280"
     },
     {
         "id": "1124",
@@ -5636,8 +5646,8 @@
         "group": "News",
         "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_2079/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001452",
-        "k": "ce6f9f837282b080ccac62ee14ec2247",
-        "kid": "fc2a4da7f3645c74ae0db8e48f797331"
+        "k": "a43230b3aaa84bd8e3f4e7518919f606",
+        "kid": "e9b8ebf4458a561fafed5943ab6fb603"
     },
     {
         "id": "541",
@@ -5666,8 +5676,8 @@
         "group": "Devotional, Regional, Spiritual",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_555/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000282",
-        "k": "c82a0f9d451324664e2ce3d981312b4e",
-        "kid": "1d9911f119f45eedae19055bebd6c708"
+        "k": "02d0e2fa090d9449cebe780130db36b5",
+        "kid": "a5d60291bf1650ee9f67845794925749"
     },
     {
         "id": "356",
@@ -5696,8 +5706,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_559/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000381",
-        "k": "3589d497f98f724ec129e94049940941",
-        "kid": "4a1a0b582c135986ad76f283b421b73b"
+        "k": "9dea7d20ab22583a74f5eddc8bfd8f66",
+        "kid": "1cd54d28ee965bfaabd5749bca4d21eb"
     },
     {
         "id": "571",
@@ -5706,8 +5716,8 @@
         "group": "Regional, Movies, Specials",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_799/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000602",
-        "k": "8da039bc2076aa3329f1215f386742de",
-        "kid": "f6b199620b845301bd2851ad60e2f73a"
+        "k": "f32b99210e7b117f6bd13f248ae16973",
+        "kid": "bf6b445e8b5053fe9fd6731937346379"
     },
     {
         "id": "796",
@@ -5716,8 +5726,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_988/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000883",
-        "k": "2df7e95356ea71141cfb30d76328b97d",
-        "kid": "1dc6ee4cc9d1525eb05fe088ab93deff"
+        "k": "2f36bb9d88f02d9df7a9c916335ea316",
+        "kid": "aeec33ac4d3e5447bfcc62f3168b66b4"
     },
     {
         "id": "122",
@@ -5761,8 +5771,8 @@
     },
     {
         "id": "624",
-        "name": "Pitaara TV",
-        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12931-jb64agig-v1/imageContent-12931-jb64agig-m1.png",
+        "name": "Pitaara Movies",
+        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PITAA_Thumbnail-v2/PITAA_Thumbnail.png",
         "group": "Regional, Movies",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_855/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000648",
@@ -5786,8 +5796,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_838/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000609",
-        "k": "3ba2582d77228845d07c0c2b647f014e",
-        "kid": "96bbd5ab6f9f516c8acbf2e72f23614b"
+        "k": "8d0923ef1ee549be59f2f4a5e014eba5",
+        "kid": "5057b585040857978b660083cf28d245"
     },
     {
         "id": "91",
@@ -5836,8 +5846,8 @@
         "group": "News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_585/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000391",
-        "k": "e19dcee9f3fe8dd1521c3a16c43ce02a",
-        "kid": "3b67f0780af45433b31df1003a1c23e9"
+        "k": "b92115ea6f43bd210cbb61c35045dfce",
+        "kid": "43c6394be45955d787f90d5f370c5c33"
     },
     {
         "id": "401",
@@ -5866,8 +5876,8 @@
         "group": "Regional, News",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000996",
-        "k": "53f62ba12328193f5b1e69b301191daf",
-        "kid": "12a82461a0bc5dfc8721a485ea7022ea"
+        "k": "01adef2ff70394932b94d8c002560a95",
+        "kid": "d19b9380d759534caeb9792c7d32a51f"
     },
     {
         "id": "972",
@@ -5886,8 +5896,8 @@
         "group": "Regional, News",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_428/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000276",
-        "k": "8d30d6e8c9422bd3f10681d8597f7bf8",
-        "kid": "ab45ebe415d55bb385119bbc06024131"
+        "k": "133e1253f78b69a7b9d987949bb4547e",
+        "kid": "455e28b873dc512f84faf104f6265379"
     },
     {
         "id": "989",
@@ -5896,8 +5906,8 @@
         "group": "Regional, News",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1817/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001151",
-        "k": "c5faba3e2ed97b515d4178d4bf19e190",
-        "kid": "990cf0426f775da2be2dfd4cd0bd28f6"
+        "k": "00b686c23d100b9ecf5e37d734f084d0",
+        "kid": "832fe33d87e6519b95dd38a4cbefb93d"
     },
     {
         "id": "1078",
@@ -5926,8 +5936,8 @@
         "group": "Regional, News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_520/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000352",
-        "k": "64dcc2f708aa01e3c1ff3ae38926fe4e",
-        "kid": "56ece6debde15d5f9d1b00960757fe3f"
+        "k": "191a4fa0e53a6fba4a61a2de0c1afb3a",
+        "kid": "8c8f7276e8955b0da7d30328dcba940d"
     },
     {
         "id": "92",
@@ -5946,8 +5956,8 @@
         "group": "Music",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1322/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001073",
-        "k": "4e8cbf9317790c44e72c0c4da430051e",
-        "kid": "f251bd437bd6566e925822c8a15ca93b"
+        "k": "d0172c520e26bb1a746920d259990088",
+        "kid": "80314164ad7c53f9af7fe28583124e3b"
     },
     {
         "id": "936",
@@ -5976,8 +5986,8 @@
         "group": "Devotional, Regional, Spiritual",
         "url": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_968/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000855",
-        "k": "6383fbf1277c72f9cf3f283aa44590bc",
-        "kid": "a1efd534edd45877bb170da230744494"
+        "k": "19b847cc97b86b490c4667f03a29c6e4",
+        "kid": "1fa8cedf1c615544881741fd9efa3ce2"
     },
     {
         "id": "567",
@@ -5986,8 +5996,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_657/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000597",
-        "k": "66535b0620851dbd7e61011a165eb371",
-        "kid": "961c3a0059a15b0195106456f582f7f6"
+        "k": "581458daf50db2e5cbe4cf5384b48b7d",
+        "kid": "3e84910ac3545c3a92cd0775568ced07"
     },
     {
         "id": "101",
@@ -6016,8 +6026,18 @@
         "group": "Others, Regional",
         "url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_1896/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001250",
-        "k": "083d0f50dcee8e8c973c860c90d24c90",
-        "kid": "c98d8500c23d56fba7f721ef5a3820c8"
+        "k": "4ca8e8d683013bf41099ea5c049b144b",
+        "kid": "85c551ecc15a5b70a32b8951a1dcff7d"
+    },
+    {
+        "id": "1352",
+        "name": "Pear TV",
+        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PEARTV_Thumbnail-v1/PEARTV_Thumbnail.png",
+        "group": "Regional, Entertainment",
+        "url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_2113/output/manifest.mpd",
+        "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001482",
+        "k": "aee74b643c6e0448fa35fa8626a58926",
+        "kid": "fb5256a27d08560d9a874bcf4d674709"
     },
     {
         "id": "368",
@@ -6106,8 +6126,8 @@
         "group": "Regional",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1303/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001043",
-        "k": "0dad195f2b0bfcc3ab1a9b2fff9ad9db",
-        "kid": "9b2f27127afe5babac94529737d4c687"
+        "k": "e3f5fcc4f30b1ad7da7cd00533cc2d5e",
+        "kid": "e1db8c2c212a529a963c3d81c48c616f"
     },
     {
         "id": "898",
@@ -6166,8 +6186,8 @@
         "group": "Regional, Entertainment",
         "url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_516/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000349",
-        "k": "7799303f37d9bd709c4287d2e8ed0e0c",
-        "kid": "ebf39febf41c5ff19cbb2dbce1293c56"
+        "k": "0ed926ec102feda32c7a49f785e46ca2",
+        "kid": "f6a008ce6e215a08b21e647934e57fd2"
     },
     {
         "id": "325",
@@ -6176,8 +6196,8 @@
         "group": "Regional, News",
         "url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_509/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000343",
-        "k": "711c54b2359e03977d9d7432d34715f2",
-        "kid": "9521bc8698d554f2a5427362b732a8a0"
+        "k": "b2f6b9d9476e178ea990ebfea394eed0",
+        "kid": "add1fef88d075997b7fdc22c2ee0103d"
     },
     {
         "id": "449",
@@ -6196,8 +6216,8 @@
         "group": "Others, Regional",
         "url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_1819/output/manifest.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001153",
-        "k": "3ef81d70895d16f736d00d86ace1f36e",
-        "kid": "d2d8d56c2a9d50e9931b4f468fd4104a"
+        "k": "abd1f2ecea550fac173812c06bf29de1",
+        "kid": "8c60d64632fa5a559a75869d4dee3795"
     },
     {
         "id": "1299",
@@ -6262,7 +6282,7 @@
     {
         "id": "849",
         "name": "Kashi Vishwanath Temple, Varanasi",
-        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/KSVW_Thumbnail-v4/KSVW_Thumbnail.png",
+        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/KSVW_Thumbnail-v7/KSVW_Thumbnail.png",
         "group": "Devotional, Spiritual",
         "url": "https://delta45tatasky.akamaized.net/out/i/1555.mpd",
         "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000985",
@@ -6270,14 +6290,14 @@
         "kid": "1c95a8590e0d4beaae0e83492bab72ce"
     },
     {
-        "id": "790",
-        "name": "Ek Onkar",
-        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48807-k4m7ud0o-v2/imageContent-48807-k4m7ud0o-m2.png",
-        "group": "Devotional, Regional, Spiritual",
-        "url": "https://delta45tatasky.akamaized.net/out/i/1357.mpd",
-        "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000879",
-        "k": "af9cbaaf07705ef8bf30effa4888d62c",
-        "kid": "ec7c5057c72c40799e2bcbe639aac541"
+        "id": "930",
+        "name": "Buletin India",
+        "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-59645-kk72iwh4-v3/imageContent-59645-kk72iwh4-m3.png",
+        "group": "Regional, News",
+        "url": "https://delta45tatasky.akamaized.net/out/i/1595.mpd",
+        "license_key": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001081",
+        "k": "4bdf42d25e0d14cf134252ba6f360b5e",
+        "kid": "9b1c5eedbf7d4bbc9bcbd38673feae76"
     },
     {
         "id": "791",
