@@ -26,5 +26,25 @@
 <!-- Embed the website inside an iframe -->
 <iframe src="https://netfree.cc/home" allow="autoplay; encrypted-media" frameborder="0"></iframe>
 
+<script>
+    // Function to simulate Android User-Agent for the iframe
+    const iframe = document.querySelector('iframe');
+    
+    // Check if iframe is loaded and apply the custom user-agent trick
+    iframe.onload = function() {
+        const userAgent = 'Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36';
+        
+        // Simulating an Android device via JavaScript
+        // Normally, this would require server-side control to manipulate headers
+        // So this will mostly be for browsers that consider user-agent string changes.
+        window.navigator.__defineGetter__('userAgent', function(){
+            return userAgent;
+        });
+
+        // Refresh the iframe with a fake user-agent (this approach has limited compatibility)
+        iframe.src = iframe.src; // Reload iframe to take effect
+    };
+</script>
+
 </body>
 </html>
