@@ -38,9 +38,13 @@
 <button class="button" onclick="redirectToIframe('option2')">Visit Option 2</button>
 
 <script>
-    // Function to redirect to 1/index.html with the selected option
+    // Function to redirect to 1/index.html or 2/index.html based on the selected option
     function redirectToIframe(option) {
-        window.location.href = `1/index.html?option=${option}`;
+        if (option === 'option1') {
+            window.location.href = `1/index.html?option=option1`; // Redirect to 1/index.html for Option 1
+        } else if (option === 'option2') {
+            window.location.href = `2/index.html?option=option2`; // Redirect to 2/index.html for Option 2
+        }
     }
 </script>
 
