@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full-Screen Iframe Embed</title>
+    <style>
+        /* Remove margin and padding for html and body */
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%; /* Make sure the body takes up the full viewport */
+            overflow: hidden; /* Remove scrolling bars */
+        }
+
+        /* Make iframe fill the entire page */
+        iframe {
+            width: 100%;  /* Full width */
+            height: 100%; /* Full height */
+            border: none; /* Remove the iframe border */
+        }
+    </style>
+</head>
+<body>
+
+<!-- Embed the website inside an iframe -->
+<iframe src="https://netfree.cc/mobile/home" allow="autoplay; encrypted-media" frameborder="0"></iframe>
+
+</body>
+</html>
